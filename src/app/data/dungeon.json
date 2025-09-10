@@ -1,0 +1,1922 @@
+[
+  {
+    "title": "A Mighty Quest",
+    "tags": ["Interaction"],
+    "description": "Standing beside the newly fallen corpse of an [Elite] monster is a mighty Champion [Elite Warrior NPC] who is on a quest in this location. The Hero/Heroine may allow the party to assist them, but they have a massive ego. Alongside demanding the pick of any loot they would look unfavourably on any Character upstaging them and could leave the group or even turn on the Characters if provoked. If they accompany the Characters out of the dungeon they would also claim almost all credit for any achievements."
+  },
+  {
+    "title": "A Worthy Foe",
+    "tags": ["Interaction"],
+    "description": "A grizzled old swordsmaster [Elite Warrior NPC] is roaming the dungeon to find an opponent worthy of their blade or even find their final glorious battle. They will be friendly enough with the Characters, but may challenge melee based fighters to a duel."
+  },
+  {
+    "title": "Abomination",
+    "tags": ["Enemy"],
+    "description": "A hideous creature comprised of multiple monsters and beasts fused together. Treat this as an [Elite Beast] and an [Elite Monster] combined as a single entity. The abomination is capable of [Lethal] damage."
+  },
+  {
+    "title": "Acid Pool",
+    "tags": ["Environmental Details"],
+    "description": "A large pool of acid has formed on the floor here and is highly corrosive. This ten foot wide pool will cause [Major] damage to any who fall in. There is a high (75%) chance that items of equipment,"
+  },
+  {
+    "title": "weapons and armour will be damaged and quickly destroyed by the acid as well if they come in to contact with the pool.Acid SprayAcid Spray",
+    "tags": ["Environmental"],
+    "description": "Hidden nozzles spray a fine mist of highly corrosive acid in this encounter zone from the walls, ceiling and floor. Unfortunately this will cause equipment damage to any item it comes in to contact with, and any naked or under protected skin. The acid causes vicious burn [Minor] damage with a chance [10%] of causing blinding wounds if it gets in to the eyes of victims. These burn wounds will be difficult and lengthy to heal."
+  },
+  {
+    "title": "Aggressive Flora",
+    "tags": ["Environmental"],
+    "description": "The abundant creeper plants that are scattered across this dungeon area are hostile towards all non-plant life. They will only be able to hinder mobile targets via tripping vines etc. However, if someone is immobilized or chooses to rest here then the plant life will slowly envelop them and try to constrict them."
+  },
+  {
+    "title": "Alarmed Door",
+    "tags": ["Door"],
+    "description": "This Heavy Door has a clockwork alarm system of alarmingly loud bells rigged to sound when it is opened. The alarm is [Difficult] to spot and [Difficult] to silence once started. A [Large] group of [Standard] denizens will come to investigate within a few minutes of the alarm starting."
+  },
+  {
+    "title": "Alchemical Notes",
+    "tags": ["Intrigue"],
+    "description": "A small undecorated wooden crate with numerous dirty empty glass vials also contains a sheaf of pa - pers. These are alchemist notes on potion creation and are worth 1 Clue. 275"
+  },
+  {
+    "title": "Alchemist Station",
+    "tags": ["Dungeon Boon"],
+    "description": "The apparatus on this table could be used to brew up potions. There is a (40%) chance that some experimental po - tions are here that have been brewed already.It’s possible, but [Difficult] to gather 1 Clue here."
+  },
+  {
+    "title": "Ambush",
+    "tags": ["Enemy"],
+    "description": "An [Equal] group of [Standard] denizens are well hidden around this encounter zone and are ready to spring an ambush. They are [Difficult] to spot in their hiding places."
+  },
+  {
+    "title": "An Offering",
+    "tags": ["Intrigue"],
+    "description": "A dented silver coated plate has had all manner of meager trinkets placed upon it. This looks like an offering to the effigy painted crudely on the wall here."
+  },
+  {
+    "title": "Ancient Carvings",
+    "tags": ["Intrigue"],
+    "description": "These carvings appear as old as the dungeon itself, if not even older. They are [Difficult] to interpret but worth 1 Clue."
+  },
+  {
+    "title": "Ancient Manuscript",
+    "tags": ["Intrigue"],
+    "description": "This paper is only just holding itself away from turning to dust. If the paper could be saved somehow, the ancient symbols inscribed upon it could provide useful in -"
+  },
+  {
+    "title": "sights about the dungeon worth 1 Clue.ApparitionApparition",
+    "tags": ["Intrigue"],
+    "description": "A ghostly vision of a fallen resident from the old days of this place. They have a warning, but a Character would need to know the ancient language to understand. If understood, 1 Clue is gained."
+  },
+  {
+    "title": "Arcane Bookshelf",
+    "tags": ["Dungeon Boon"],
+    "description": "A lot of these books are old, dusty and may crumble when picked up. Some books, however, still look as good as new. Mainly those with arcane symbols adorning the spine. Those able to read the obscure text could gather 1 Clue."
+  },
+  {
+    "title": "Arch Mage",
+    "tags": ["Interaction"],
+    "description": "This imposing Arch Mage [Elite Wizard NPC] has rea - son to believe a rare tome of ancient magical practice is to be found in this dungeon. They could be persuaded to let the Characters find it and then pay them a reward."
+  },
+  {
+    "title": "Archaeologist",
+    "tags": ["Interaction"],
+    "description": "This experienced academic [Elite Scholar NPC] and their [Small] team of assistants [Standard Commoner NPC] are busy finding and sorting items of historical importance. Depending how deep in to the dungeon they are, assistance with the local occupants may be very wel - come as they may have traveled out of their depth. They have gathered information worth 1 Clue they may use to bargain with the Characters."
+  },
+  {
+    "title": "Armour Stand",
+    "tags": ["Dungeon Boon"],
+    "description": "A stand with at least one full set of well maintained armour hanging from it. 276"
+  },
+  {
+    "title": "Armoured Denizen",
+    "tags": ["Dungeon Boon"],
+    "description": "This looks like a mastercraft or enchanted suit of armour, however it’s being worn by a denizen. This [Elite Warrior] denizen won’t give up this prize easily and it’ll take a careful hand not to damage the armour getting it from the current wearer."
+  },
+  {
+    "title": "Artist Studio",
+    "tags": ["Dungeon Boon"],
+    "description": "An easel, canvas, paints and even a part finished artwork have been left here. Could this be a denizen with an artistic eye or has an artist ventured in to the dungeon? Characters may notice [Routine] a message hidden"
+  },
+  {
+    "title": "in the painting, those able to decipher it can gather 1 Clue.AssassinAssassin",
+    "tags": ["Interaction"],
+    "description": "This well equipped traveller [Elite Rogue NPC] is an assassin currently seeking their target. The target is likely (90%) to be a denizen or other NPC in the dungeon, although there is a small chance (10%) that a Character is the target."
+  },
+  {
+    "title": "Assassins",
+    "tags": ["Enemy"],
+    "description": "This [Pair] of [Elite Rogue] denizens have targeted the Characters and are using their assassin skills to hunt them down. If they are using stealth or disguise they are [Very Difficult] to spot. They would also have poisoned attacks capable of [Lethal] damage."
+  },
+  {
+    "title": "Audience",
+    "tags": ["Interaction"],
+    "description": "A [Very Large] group of [Standard] denizens are watching from a relatively safe vantage point. For some reason they’re just watching and will try to retreat if attacked."
+  },
+  {
+    "title": "Automatic Door",
+    "tags": ["Door"],
+    "description": "Through mechanical or magical means this heavy door slowly opens whenever a person comes within ten foot of it. It closes again when no one remains within the ten foot area."
+  },
+  {
+    "title": "Barricaded Door",
+    "tags": ["Door"],
+    "description": "A ramshackle barricade has been erected against this simple wooden door to stop it opening. There is a chance (30%) of the barricade being placed to keep something trapped within, such as a [Lone] angry [Standard] monster. 276 277"
+  },
+  {
+    "title": "Barricades",
+    "tags": ["Enemy"],
+    "description": "A series of makeshift barricades block the way around this encounter zone, they are manned by a [Large] group of [Standard] denizens. These denizens are very likely to have ranged capa - bilities to take advantage of the barricades.They have been constructed, as is traditional, with spikes facing outwards to make charging and climbing more hazardous."
+  },
+  {
+    "title": "Battle Horn",
+    "tags": ["Dungeon Boon"],
+    "description": "This huge horn must have belonged to a giant beast before being fashioned into a table sized battle horn, with intricate inlaid silver knot-work decorating its surface. If someone had the lungs to blow this horn it would be heard throughout the dungeon; in which case it’s very likely (80%) to attract an enemy encounter."
+  },
+  {
+    "title": "Bauble of the Gods",
+    "tags": ["Environmental"],
+    "description": "A crystal ball is found in this encounter zone, that if peered in to shows a gods eye view of this dungeon area. This would allow anyone looking in to the mists of the ball to see movements throughout the dungeon area."
+  },
+  {
+    "title": "Beast Group",
+    "tags": ["Enemy"],
+    "description": "An [Equal] size group of [Standard] beasts are found in this encounter zone."
+  },
+  {
+    "title": "Beast Master",
+    "tags": ["Enemy"],
+    "description": "An [Elite Ranger] denizen who commands an [Equal] size group of [Standard] beasts. These beasts will be friendly to denizens as long as"
+  },
+  {
+    "title": "the Beastmaster commands them.BeatersBeaters",
+    "tags": ["Enemy"],
+    "description": "A [Very Large] group of [Easy] denizens are ap - proaching from just beyond the dungeon area, they are making a lot of noise in an attempt to flush out any intruders and make efforts to sound like a more threatening group than they may be."
+  },
+  {
+    "title": "Bejeweled Collar",
+    "tags": ["Dungeon Boon"],
+    "description": "A fine worked leather collar with six rubies mounted in silver studs. The collar is currently being worn by an [Elite] beast."
+  },
+  {
+    "title": "Bestial Ambush",
+    "tags": ["Enemy"],
+    "description": "A [Pair] of [Elite] beasts have stalked the Characters and are [Very Difficult] to spot before they launch a surprise attack."
+  },
+  {
+    "title": "Bitter Cold",
+    "tags": ["Environmental"],
+    "description": "This dungeon area has an unnatural cold emanating throughout. The Characters breath is exhaled in freezing clouds and ice begins to form on anyone who stays immo - bile. Any exposed skin touching ice cold metal objects is likely to stick and require careful freeing up. Anyone not equipped for extreme cold will take regu - lar [Minor] damage until they can warm up."
+  },
+  {
+    "title": "Blackest Gate",
+    "tags": ["Door"],
+    "description": "The angles of this utterly black door are uncomfort - able to look at, and cause headaches if studied for too long resulting in [Light] psychic damage. A palpable aura of fear can be felt within ten foot of the door and it would be [Very Difficult] for a Character to muster the courage to open the door. This door is very resistant to both physical and magi - cal damage, although spending a Clue would allow a weakness to be found. 278"
+  },
+  {
+    "title": "Bladed Door",
+    "tags": ["Door"],
+    "description": "There isn’t a single piece of this imposing door that doesn’t end in a razor sharp blade; made from man - gled and fused slivers of metal, it isn’t clear where a handle would be found. It would be a [Difficult] task to locate the handle mech - anism and there would be plenty of opportunities to receive [Light] damage from the door’s sharp edges. Spending 1 Clue would reveal the handle."
+  },
+  {
+    "title": "Blasted Remains",
+    "tags": ["Intrigue"],
+    "description": "Very little of this group of bodies is left to identify them, but what is apparent is that they were blasted and burnt by a fierce force."
+  },
+  {
+    "title": "Blessed Threshold",
+    "tags": ["Door"],
+    "description": "Instead of a door there is a bright white slab of stone in the door way below a glowing wall of golden light. The slab has holy symbols dedicated to a benevolent deity carved across its surface. The golden aura will feel calming and reassuring for appropriately aligned Characters and can be passed through without issue. It may even restore [Light] amounts of health. The aura has the opposite effect on those with evil tendencies and will make them feel uncomfortable and cause [Light] damage to them if they pass through."
+  },
+  {
+    "title": "Blood Money",
+    "tags": ["Dungeon Boon"],
+    "description": "This large pile of gold coins are clean and shiny as if freshly minted, but they are not quite what they seem. The coins are actually dormant scarab like creatures that are [Difficult] to tell apart from a gold coin. If handled they with unroll and attempt to bite whoever touched them, possibly causing [Light] damage. Whilst not actually made from gold, the carapace of"
+  },
+  {
+    "title": "these beetles is a sought after alchemical ingredient.Blood TrailBlood Trail",
+    "tags": ["Intrigue"],
+    "description": "A trail of fresh blood, which if a [Routine] tracking effort is made will lead to it’s owner(s). This is either (50%) an Interaction encounter roll to or (50%) an enemy encounter roll."
+  },
+  {
+    "title": "Boneyard",
+    "tags": ["Intrigue"],
+    "description": "This entire dungeon area is strewn with bones, both old and new from all manner of creatures."
+  },
+  {
+    "title": "Book Shelf",
+    "tags": ["Intrigue"],
+    "description": "There are intact bookshelves throughout this encoun - ter zone full of dusty old tomes. There is a slim (20%) chance of a book here contain - ing useful information (1 Clue)."
+  },
+  {
+    "title": "Boosted Monster",
+    "tags": ["Enemy"],
+    "description": "This [Standard] monster has been magically or alchemically enhanced and has more health, causes more damage and is quicker than before."
+  },
+  {
+    "title": "Booze",
+    "tags": ["Dungeon Boon"],
+    "description": "A collection of barrels, bottles, kegs, pitchers and more are carefully stored here. There is a mix of various ales, wines and spirits, with enough to supply a reasonable celebration or two. It’s also possible (20%) that some rare and valuable vintages are to be found here too."
+  },
+  {
+    "title": "Bounty Hunter",
+    "tags": ["Interaction"],
+    "description": "A rugged bounty hunter [Elite Ranger NPC] bristling with weapons has tracked their quarry in to the dun - geon. The bounty is likely (90%) to be a denizen or other NPC in the dungeon, although there is a small chance (10%) that a Character is the bounty. 279"
+  },
+  {
+    "title": "Bramble Briar’s",
+    "tags": ["Door"],
+    "description": "This doorway is hard to discern behind a wall of tan - gled thorn studded branches. The branches are alive and will attempt to snare and entangle any Character who touches them. The thorns can cause [Minor] damage to anyone who gets ensnared. The branches open for anyone carrying a particular druidic oil that emits a strong odour. It’s quite likely (75%) that this oil may be found somewhere within this dungeon area, spending 1 Clue will reveal this."
+  },
+  {
+    "title": "Broken Floor",
+    "tags": ["Environmental"],
+    "description": "The floor here is very poorly maintained and broken in many places. This means there is an increased chance of slipping or tripping when moving around this dungeon area. It would also increase the difficulty of any sneaking style actions."
+  },
+  {
+    "title": "Bubbling Cauldron",
+    "tags": ["Intrigue"],
+    "description": "A cauldron big enough to fit a couple of full grown people inside is bubbling away over a fire."
+  },
+  {
+    "title": "Bugs",
+    "tags": ["Environmental Details"],
+    "description": "A moving carpet of glistening bugs of all shapes and sizes covers the floor, walls and ceiling of this encoun - ter zone. Whilst they aren’t inherently dangerous it’d still require a [Simple] test of some form to get through due to the sheer number of bugs."
+  },
+  {
+    "title": "Bunch of Keys",
+    "tags": ["Dungeon Boon"],
+    "description": "A collection of keys on a large iron ring. These could help with the more mundane locked"
+  },
+  {
+    "title": "doors in this dungeon area.Burial GoodsBurial Goods",
+    "tags": ["Dungeon Boon"],
+    "description": "A grave, sarcophagus, or just a wrapped corpse is on the floor. Grave goods surround the remains for them to use in the afterlife. Some jewelery, armour and weapons are likely but you’ll have to snap the dusty old bones to get them. For a Character with some knowledge of history it would be [Routine] to gather 1 Clue here."
+  },
+  {
+    "title": "Buried Alive",
+    "tags": ["Environmental"],
+    "description": "The ceiling in this encounter zone collapses, dropping a vast blanket of loose dirt on top of the Characters. It is [Difficult] to avoid the initial fall, and anyone caught by it will suffer [Light] damage. Those buried will have a [Difficult] time digging their way out."
+  },
+  {
+    "title": "Butcher’s Slab",
+    "tags": ["Intrigue"],
+    "description": "A large wooden slab of a table with various chunks of ‘meat’ strewn across the top. There is also an oversized meat cleaver that has a chance (20%) of belonging to the [Elite Warrior] deni - zen butcher who is added to this dungeon area."
+  },
+  {
+    "title": "Cage Door",
+    "tags": ["Door"],
+    "description": "Sturdy metal bars and a hefty key operated lock make this classic prison door a formidable barrier. The Cage Door has a chance (75%) of being locked and that lock is [Difficult] to pick without the correct key."
+  },
+  {
+    "title": "Calming Light",
+    "tags": ["Environmental"],
+    "description": "The torches or lanterns throughout this dungeon area emit a calming blue light that quells the beasts that may be found here. All beasts found here are peaceful unless attacked or the lights go out. 280"
+  },
+  {
+    "title": "Captured Common Folk",
+    "tags": ["Interaction"],
+    "description": "There is a dingy cell, with filth encrusted walls and the repulsive stench of too many bodies living in a space with no fresh air or toilet facilities. Half a dozen common folk [Easy Commoner NPC] are held captive here. There is a mix of frail male and fe - male adults, who are all in poor health both physically and mentally. They know some useful information on their cruel captors worth 1 Clue and would generally be begging for help. There may be someone here of importance (10%)."
+  },
+  {
+    "title": "Cartel Representatives",
+    "tags": ["Interaction"],
+    "description": "An [Equal] group of shady looking individuals [Stan - dard Rogue NPC] are loitering here.They are actually representatives from a criminal organisation and have business to discuss with some denizens. They’ll most likely try to deceive the Characters and try to use them to their advantage."
+  },
+  {
+    "title": "Carved Box",
+    "tags": ["Dungeon Boon"],
+    "description": "There are a small number of coins in this intricately carved small wooden trinket box. The box itself is made from rare woods and expertly carved, making it far more valuable than the coins found inside."
+  },
+  {
+    "title": "Carved Column",
+    "tags": ["Intrigue"],
+    "description": "This stone column has a spiraling script engraved all around it. If translated from the ancient language it’s written in this will indicate the details of a trap in this dungeon area. The script is accompanied by a pictorial explanation"
+  },
+  {
+    "title": "just in case the Characters don’t understand the script.Celebration FeastCelebration Feast",
+    "tags": ["Enemy"],
+    "description": "This dungeon area has a [Very Large] group of [Easy] denizens, a [Large] group of [Standard] denizens and a [Pair] of [Elite] denizens. All of these denizens are busy with a celebration of some form, with abundant food and drink for all. There is a lot of noise coming from the feast and it would be [Routine] to go around and avoid it. The denizens may well also be inebriated and easier to trick than normal."
+  },
+  {
+    "title": "Chalk Trail",
+    "tags": ["Intrigue"],
+    "description": "A series of useful symbols left by a previous adventur - er, this could be to find a boon (60%) or a fake trail left leading to a trap (40%)."
+  },
+  {
+    "title": "Champion",
+    "tags": ["Enemy"],
+    "description": "This [Elite Warrior] denizen leads a [Small] group of [Standard] denizens and is very well equipped and prepared for meeting the Characters. If appropriate the Champion will challenge a single Character to a duel."
+  },
+  {
+    "title": "Charged Chambers",
+    "tags": ["Environmental"],
+    "description": "This encounter zone is rife with electrical activity as arcs form and sparks dance all around. There is a chance (20%) of getting struck by electrici - ty as a Character moves around this encounter zone, taking [Light] damage each time they are struck. If a Character has a lot of metal on them, full plate armour for example, then the chance of getting struck increases (up to 80%) as a result. 281"
+  },
+  {
+    "title": "Chronomancy Bubble",
+    "tags": ["Environmental"],
+    "description": "This dungeon area has a broken bubble of time. After the Characters are given the description for the area, and have had time to look around and interact with at least one encounter, have them restart the area and have to redo the encounter(s). The may use any knowledge of the first time through to help them during the second time through. If you want to go full groundhog day, repeat until a certain event happens."
+  },
+  {
+    "title": "Clear Tracks",
+    "tags": ["Intrigue"],
+    "description": "A clear set of tracks that would be [Routine] to inves - tigate and determine the beasts and denizens that occupy and move around this dungeon area."
+  },
+  {
+    "title": "Cloakroom",
+    "tags": ["Dungeon Boon"],
+    "description": "This encounter zone is a cloakroom for the denizens and contains a wide range of their clothes, hats and footwear. It would be [Routine] to make disguises from the items here."
+  },
+  {
+    "title": "Clockwork Servants",
+    "tags": ["Interaction"],
+    "description": "A [Small] group of humanoid automata [Standard Commoner NPC] powered by clockwork style technol - ogy. These servants have low level intelligence and are"
+  },
+  {
+    "title": "very keen on keeping the place neat and tidy.Clockwork Vault DoorClockwork Vault Door",
+    "tags": ["Door"],
+    "description": "An almost impossible door to open without the correct keys and codes, which could be found for 3 Clues. It’s constructed of magically treated stone and steel and locked by a [Near Impossible] to pick clockwork tumbler system. Spells have a 50% chance of reflecting back on the caster if aimed at this door. Add a Boon encounter to any room secured by this type of door and some extra treasure of some form."
+  },
+  {
+    "title": "Coin Stash",
+    "tags": ["Dungeon Boon"],
+    "description": "Hidden well enough that it would be [Difficult] to spot, this stash contains a fair amount of coins."
+  },
+  {
+    "title": "Collapsing Ceiling",
+    "tags": ["Environmental"],
+    "description": "This entire dungeon area is falling apart with chunks of the stone tiled ceiling falling away. At frequent intervals there is a chance (5%) for each Character or NPC they are hit by falling stonework unless able to perform a [Difficult] dodge. Falling stones cause [Major] Damage.Any attacks with area of effect or targeting the ceiling may also (70%) bring tiles down on anyone below."
+  },
+  {
+    "title": "Combination Lock Door",
+    "tags": ["Door"],
+    "description": "Reinforced and iron bound, this door is locked via a series of number dials. Without the code it would be a [Very Difficult] task to crack the combination. The code would cost 1 Clue. 282"
+  },
+  {
+    "title": "Corpse",
+    "tags": ["Intrigue"],
+    "description": "The corpse of an unfortunate dungeon delver lies here. They have some useful tools left on their body, but all weapons and more interesting items, including the ears of this person, have been removed."
+  },
+  {
+    "title": "Corpse Pile",
+    "tags": ["Intrigue"],
+    "description": "The bodies in this encounter zone are piled five deep and make for an unpleasant obstacle. No items of worth have been left on these bodies."
+  },
+  {
+    "title": "Cursed Eyes",
+    "tags": ["Dungeon Boon"],
+    "description": "These three large bright green gems seem to have a soft luminescence, and are set into the eye sockets of a statue representing a twisted insect like creature. When in close proximity the gems have an aura that extends to ten foot, within that area healing becomes [Very Difficult] whether by magical or natural means."
+  },
+  {
+    "title": "Curtain of Flame",
+    "tags": ["Door"],
+    "description": "Instead of a door this doorway has a sheet of intense flame. This is either magically produced, or via jets in the door frame. Anyone passing through without negating the flames somehow would receive [Major] damage and risk"
+  },
+  {
+    "title": "setting their gear on fire.DarknessDarkness",
+    "tags": ["Environmental"],
+    "description": "An unnatural inky blackness covers this entire dun - geon area making it [Very Difficult] to perform any activity that requires sight. Lanterns and magical light sources will have limited effect here, only producing a ten foot radius of dim light. Characters with natural low light vision will be limited to ten foot visual range in the darkness. It’s very likely (70%) that any enemies found here have adapted to the dark."
+  },
+  {
+    "title": "Demi God",
+    "tags": ["Interaction"],
+    "description": "A manifestation of a deity in mortal form [Overwhelm - ing Priest NPC] has taken an interest in the dungeon and is looking around. They’re amazingly fickle and just as likely to help the Characters or not on a whim. They have no real interest in anything beyond their own amusement."
+  },
+  {
+    "title": "Denizen Group",
+    "tags": ["Enemy"],
+    "description": "An [Equal] size group of [Standard] denizens are resi - dent in this encounter zone."
+  },
+  {
+    "title": "Denizen Orders",
+    "tags": ["Intrigue"],
+    "description": "This scrap of parchment is written in a denizens hand and looks to have been dropped. The information will have details on what denizens are present in this dungeon."
+  },
+  {
+    "title": "Denizen Patrol",
+    "tags": ["Enemy"],
+    "description": "This [Large] group of [Standard] denizens are pa - trolling this dungeon area. They start in the encounter zone and from there will head towards the most distant edge of the dungeon area before looping back again. 283"
+  },
+  {
+    "title": "Devilish Bargain",
+    "tags": ["Interaction"],
+    "description": "A bright eyed stranger with a charming grin [Over - whelming Wizard NPC] is actually a devilish creature in human form. They are trying to ensnare mortal souls with devilish contracts and will be trying to convince the Characters to sign up to a dungeon delving deal they have that looks to good to be true. If their true nature is discovered they will only fight if they are unable to simply escape."
+  },
+  {
+    "title": "Disguised Survivor",
+    "tags": ["Interaction"],
+    "description": "An adventurer [Standard Rogue NPC] whose own party have all been slain in the dungeon. To survive they have crafted a disguise from fallen denizens and are currently attempting not to give themselves away. There are a [Small] group of [Standard] denizens alongside the survivor in this encounter zone."
+  },
+  {
+    "title": "The survivor knows information worth 1 Clue.DoorDoor",
+    "tags": ["Door"],
+    "description": "A simple wooden door with a handle operated latch. This type of door could take [Light] damage before being broken. There is a 10% chance that the door is locked with a [Simple] mechanical lock."
+  },
+  {
+    "title": "Door of the Elders",
+    "tags": ["Door"],
+    "description": "This door could be older than the Characters races and appears ancient, alien and inscrutable. The door opens by phasing out of this reality following psionic commands long lost to time. It’s possible to open it for a short time as the door senses the desire of those trying to open it, howev - er this psionic activated door was not meant for the Characters minds so they may suffer [Major] mental damage as a result. Spending 1 Clue may lessen this. It is indestructible for all intents and purposes. 284"
+  },
+  {
+    "title": "Door of the Word",
+    "tags": ["Door"],
+    "description": "Solid and impenetrable this magic door requires a command word to open. There is chance (30%) that runic carvings on the door give a hint as to the word required. Otherwise the word will have to be obtained by spend - ing 1 Clue."
+  },
+  {
+    "title": "Doppelganger",
+    "tags": ["Interaction"],
+    "description": "This is no stranger but an exact copy of one of the Characters. They should be introduced in such a way that it’s not easy to tell which is which. This doppelganger takes on the Characters form ei - ther as a purely defensive measure (60%) or there is a chance (40%) that they intend to kill the other copy and take over their life."
+  },
+  {
+    "title": "Dread Beast",
+    "tags": ["Enemy"],
+    "description": "This [Overwhelming] beast is a scourge to this dun - geon area and is avoided by the denizens and mon - sters alike. There should be a way for the Characters to avoid this beast if they choose to do so."
+  },
+  {
+    "title": "Dream Portal",
+    "tags": ["Door"],
+    "description": "A lightweight but sturdy unlocked door covered in painted panels showing fantastical animals running amongst a cloudscape. A powerful sleep effect takes hold of anyone passing through and they would have a [Difficult] time staying awake. Those removed from the immediate area of the door can be brought back awake, or will wake unaided after a few hours. Anyone stuck in the doorway will have a [Very Difficult] time waking. This effect is tied to this location, not the door itself"
+  },
+  {
+    "title": "and destroying the door does not negate the effect.Dropped WeaponDropped Weapon",
+    "tags": ["Intrigue"],
+    "description": "An elegant mastercraft fencing blade lies snapped on the floor."
+  },
+  {
+    "title": "Drug Stash",
+    "tags": ["Dungeon Boon"],
+    "description": "This pair of large sacks have been carefully oiled and sealed against the elements. Within is a substantial amount of contraband narcot - ics."
+  },
+  {
+    "title": "Druid",
+    "tags": ["Interaction"],
+    "description": "This elder druid [Elite Priest NPC] has taken it upon themselves to safeguard the animals and plants within this dungeon. They will be friendly with and protect any beasts they meet. If the Characters have been killing beasts and de - stroying plants the druid will be very angry with them."
+  },
+  {
+    "title": "Dungeon Inspector",
+    "tags": ["Enemy"],
+    "description": "This [Elite Wizard] denizen is inspecting the dungeon and has a map and journal that details what they have found so far. They will avoid these falling in to the Characters hands as much as they are able, they are worth 2 Clues if acquired. They have an escort formed of an [Equal] sized group of [Standard] denizens."
+  },
+  {
+    "title": "Echoes",
+    "tags": ["Environmental"],
+    "description": "This dungeon area has fantastic acoustics and noise travels well and very far. This will make listening for other movement easier but would also make any stealth more difficult. Any Character that uses sound based abilities or spells would find them more effective here. 285"
+  },
+  {
+    "title": "Echoes of the Future",
+    "tags": ["Interaction"],
+    "description": "The Characters see themselves as ghostly figures enacting some pivotal future event. This would likely include something major like the death of some Characters or a betrayal. The future vi- sion could even offer some cryptic warnings or vague predictions. Whether this is just a glimpse of one possible future or a fabricated apparition it still grants 1 Clue."
+  },
+  {
+    "title": "Eggs",
+    "tags": ["Dungeon Boon"],
+    "description": "A dozen of either beast or monster eggs found in an unoccupied nest. These eggs could fetch a good price if they get back to civilisation in one piece. If the nest is disturbed the next beast or monster en- counter would feature enraged parents."
+  },
+  {
+    "title": "Elder Monster",
+    "tags": ["Enemy"],
+    "description": "A monster of legend may call this dungeon area home or could just be passing through this way. This [Overwhelming] monster is best avoided if possi - ble, although think of the glory. There should be a way for the Characters to avoid this Monster if they choose to do so."
+  },
+  {
+    "title": "Electrified Door",
+    "tags": ["Door"],
+    "description": "A solid metal door with a large pull bar in the centre. The door itself is electrified and will cause [Light] dam- age to anyone touching it. The air around the door crackles with static and hair will stand on end if it is approached. The pull bar is very highly charged, and will cause [Major] damage if touched. It’s possible, though [Very Difficult], to find the nearby switch to deactivate the door, although spending 1"
+  },
+  {
+    "title": "Clue will also reveal this. Elite War-BandElite War-Band",
+    "tags": ["Enemy"],
+    "description": "This [Small] size group of [Elite] denizens form a war- band patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band, as well as con - sumables like potions."
+  },
+  {
+    "title": "Enchanted Item",
+    "tags": ["Dungeon Boon"],
+    "description": "There is a magically enhanced item to be found here. This could be a weapon, armour piece, ammunition, tools etc. There is a high (70%) chance that this item is being carried and used by a denizen in this dungeon area."
+  },
+  {
+    "title": "Enforcers",
+    "tags": ["Enemy"],
+    "description": "This [Small] group of [Elite Warrior] denizens are hated and feared by their fellows as they enforce the rules amongst the denizens. It’s possible other denizens may avoid helping if these Enforcers are attacked."
+  },
+  {
+    "title": "Engineers",
+    "tags": ["Interaction"],
+    "description": "An [Equal] sized group of dungeon contractors [Stan - dard Commoner NPC] are busy repairing the dungeon infrastructure in this rather run down and ramshackle encounter zone. They’ll either have been forced to work (60%) or are paid to be here (40%). Either way there will be a constant grumble and the sound of air being drawn through teeth disapprovingly. If they’re here under threat by the denizens they would welcome freedom. If they’re here under pay then they’d prefer the Char - acters leave them to get on with the work, however they may welcome support if they plan on putting the price up mid job. They have with them tools and equipment which is both heavy and useful. 286"
+  },
+  {
+    "title": "Envoy",
+    "tags": ["Interaction"],
+    "description": "A [Lone] well presented [Elite Performer] denizen ap - proaches making it known they offer no harm. They have a proposition for the Characters.This could be a simple message to leave, or they could try to set the Characters up for a trap or ambush after offering an alliance or truce."
+  },
+  {
+    "title": "Escaped Beast",
+    "tags": ["Enemy"],
+    "description": "A large beast has managed to get loose from wherev - er it was secured. This creature is only trying to exit this dungeon area and won’t target anyone, but it will attack if its way is blocked. The beast is non-sentient and classed as an [Elite] beast."
+  },
+  {
+    "title": "Exploding Beasts",
+    "tags": ["Enemy"],
+    "description": "By means of magic, alchemy or just gunpowder, this [Equal] size group of [Easy] beasts are rigged to ex - plode. When they receive damage or reach a Character in melee they explode causing [Major] damage to any - one in a five foot radius."
+  },
+  {
+    "title": "Exploding Door",
+    "tags": ["Door"],
+    "description": "A normal looking door that has been rigged via magic, alchemy or gunpowder to explode when the handle is turned. The explosion destroys the door and causes [Major] damage to the one turning the handle and [Light] damage to anyone within twenty feet. This trap is [Very Difficult] to spot and [Very Difficult] to"
+  },
+  {
+    "title": "disarm.Eye of the StormEye of the Storm",
+    "tags": ["Environmental"],
+    "description": "It’s quiet here, nothing stirs, and the Characters may find a brief respite, for now... This dungeon area has no Enemy, Interaction or Trap encounters. Instead, for each Enemy, Interaction or Trap encounter skipped add it to the next dungeon area."
+  },
+  {
+    "title": "Fake Surroundings",
+    "tags": ["Environmental"],
+    "description": "On closer inspection the walls and fixtures in this dungeon area aren’t actually real, they appear to be made of paper, glue, thin wood and paint. All walls and doors are easily destroyed by [Minor] damage and there is no need to roll door encounters here. The unanswered question is why has someone mocked up a fake section of dungeon?"
+  },
+  {
+    "title": "Farm Section",
+    "tags": ["Environmental"],
+    "description": "The denizens must use this dungeon area for food production, there are plant crops in pots on every spare bit of surface and livestock animals are scat - tered throughout. This makes for a lot of cluttered space and extra noise which would make any stealth easier."
+  },
+  {
+    "title": "Fey Door",
+    "tags": ["Door"],
+    "description": "This door was not made for the average person, it’s barely one and a half feet in height and only one foot wide. The door is otherwise well maintained and perfectly functional, just very small."
+  },
+  {
+    "title": "Filthy Stash",
+    "tags": ["Dungeon Boon"],
+    "description": "A reasonable amount of coins have been hidden with - in a reeking midden heap. It’ll be a [Simple] but dirty job to collect them. 287"
+  },
+  {
+    "title": "Fire",
+    "tags": ["Environmental"],
+    "description": "This encounter zone is on fire, which may spread if action is not taken. Regularly check to see (20%) if the fire has spread.If it spreads add a Smoke environmental encounter and increase the area occupied by the fire. The fire could be fueled naturally by furnishings or wooden paneling etc. or if the dungeon is pure stone then the fire would have a magical or alchemical source."
+  },
+  {
+    "title": "Fire and Pitchforks",
+    "tags": ["Interaction"],
+    "description": ""
+  },
+  {
+    "title": "A [Very Large] group of villagers [Easy Commoner NPC] have entered the dungeon armed with burning torches, farm implements and determination to clear out all evil.Firework CratesFirework Crates",
+    "tags": ["Dungeon Boon"],
+    "description": "Three crates covered in skulls with danger written all over them. These crates contain two dozen fireworks each of varying size, effect and colour."
+  },
+  {
+    "title": "Flame Bursts",
+    "tags": ["Door"],
+    "description": "For reasons known only to the architects of this place there are a series of timed flame bursts that fill this door way. It’s a [Routine] task to get the timings worked out and a [Difficult] task to step through at the right time. Failing to time it right, or find another way to negate the flames while passing through, will result in [Ma - jor] damage and may set fire to any clothing, wooden weapons or carried gear. 288"
+  },
+  {
+    "title": "Flooded Sections",
+    "tags": ["Environmental"],
+    "description": "Sections of the floor in this dungeon area are sub - merged under water. Characters would have decreased movement speed and a [Routine] task to avoid tripping on submerged debris when moving through a flooded area."
+  },
+  {
+    "title": "Fog",
+    "tags": ["Environmental"],
+    "description": "A thick blanket of fog covers the ground and reduces visibility in this dungeon area. Characters cannot see the foot of ground closest to the floor and visual range is also reduced to twenty feet. Is there something hiding in the fog?"
+  },
+  {
+    "title": "Folly Gate",
+    "tags": ["Door"],
+    "description": "This impressive gateway has been built to inspire awe and radiates a strong sense of magic that is hard to pinpoint. It also appears to have intricate mechanisms that look like possible trap triggers. The door itself is all for show, and the magic aura does nothing but supply a strong sense of magic. It’s a [Difficult] task to check that the mechanisms are also just for show and nothing is trapped."
+  },
+  {
+    "title": "Food Store",
+    "tags": ["Intrigue"],
+    "description": ""
+  },
+  {
+    "title": "A nook in the wall of this encounter zone has been used as a larder, with fresh foodstuffs inside.Fortune TellerFortune Teller",
+    "tags": ["Interaction"],
+    "description": "For a mere few pieces of silver, the fortune teller [Standard Priest NPC] will read the fortunes of all the Characters, granting 1 Clue. They will tell of how they saw the Characters in a vision and knew to wait here for them. Which could be true, or could just be the line they use on anyone they meet."
+  },
+  {
+    "title": "Fresh Baked Pies",
+    "tags": ["Dungeon Boon"],
+    "description": "A handy ledge in this encounter zone has a row of half a dozen freshly baked pies sat cooling upon it. These could be the handiwork of a denizen baker or there is even a chance (10%) they are poisoned pies, left to catch unwary adventurers."
+  },
+  {
+    "title": "From a Distant Land",
+    "tags": ["Interaction"],
+    "description": "This stranger [Standard * NPC] is a traveler from a distant and exotic land and quite likely a member of an unusual species. They are seeking adventure and have traveled far to find it."
+  },
+  {
+    "title": "From Above",
+    "tags": ["Enemy"],
+    "description": "This group of an [Equal] amount of [Standard] deni - zens launch an attack from up on high. Either this could be an attack from a higher gallery of the dungeon, or they could even be flying opponents."
+  },
+  {
+    "title": "From the Shadows",
+    "tags": ["Enemy"],
+    "description": "A [Pair] of [Elite] Monsters attack from the darkness, forming out of the shadows themselves. These monsters appear as shadow versions of themselves and would be susceptible to magical light attacks. 289"
+  },
+  {
+    "title": "Full Crystal Dining Set",
+    "tags": ["Dungeon Boon"],
+    "description": "This large set of fine crystal glass dinnerware is worth a large sum of money, but is fragile to carry around a dungeon. The intricate carving of crests etched on this set could be interpreted [Difficult] to give 1 Clue."
+  },
+  {
+    "title": "Funeral",
+    "tags": ["Enemy"],
+    "description": "A [Large] group of [Standard] denizens are mourning a fallen comrade (maybe even killed by the Charac - ters earlier in the dungeon). They are preoccupied and might be easily avoided, but if disturbed they will fight with anger and resolve to avenge their fallen."
+  },
+  {
+    "title": "Fungus Spores",
+    "tags": ["Environmental"],
+    "description": "There are mushrooms throughout this dungeon area that emit a pale glow and will explode in a cloud of spores if disturbed. If the mushrooms are interacted with in any way they will emit a cloud of choking and blinding spores into a ten foot square area. Those in the cloud may suffer [Light] damage and temporary sight loss."
+  },
+  {
+    "title": "Furious Hero",
+    "tags": ["Interaction"],
+    "description": "This adventurer [Standard * NPC] has had a bad day, they have lost precious items and run through all of their consumables like potions. They ran in to a series of traps and now have to give up on their dungeon delve, which they are not happy about. At all. They have knowledge on the next Trap in the dun - geon and could be persuaded to assist the Charac - ters, although it would be a [Difficult] ask. On a brighter note if they are going in opposing direc - tions the Characters may find that all the traps in their"
+  },
+  {
+    "title": "path have already been set off.Game Board and PiecesGame Board and Pieces",
+    "tags": ["Dungeon Boon"],
+    "description": "This chess like game set has components made from precious materials. The sturdy and weighty pieces are expertly carved from precious stones, metals and even woods. The overall effect is very pleasing."
+  },
+  {
+    "title": "Gathering Party",
+    "tags": ["Interaction"],
+    "description": "This rather nervous alchemist [Standard Scholar NPC] is busy searching for ingredients while their [Small] team of guards [Standard Warrior NPC] keep watch. They would be willing to pay for any interesting ingredients the Characters could find, directing them to visit their workshop after they have finished in the dungeon."
+  },
+  {
+    "title": "Gem",
+    "tags": ["Dungeon Boon"],
+    "description": "A single gem is [Difficult] to spot within a crack in the wall."
+  },
+  {
+    "title": "Gem Stash",
+    "tags": ["Dungeon Boon"],
+    "description": "It would be [Very Difficult] to find this stash of a dozen mixed gem stones."
+  },
+  {
+    "title": "Ghost Battle",
+    "tags": ["Environmental"],
+    "description": "This dungeon area was the site of a mass battle at some point in the dungeon’s past. This battle is replayed by spectral warriors at frequent intervals. These specters are insubstantial and cannot interact with the current reality. It is however a potentially fear inducing event to wit - ness.Those who study the ghostly scenes may find they [Standard] can gain 1 Clue. 290"
+  },
+  {
+    "title": "Gilt Door",
+    "tags": ["Door"],
+    "description": "This lacquered exotic wooden door has silver filled patterns engraved all across it. Scraping out the silver will yield some minor treasure, but if the Characters find a way to take the whole door with them it would be far more valuable to an art collector. The silver patterns are very intricate and may have some deeper meaning (1 clue)"
+  },
+  {
+    "title": "Glass Door",
+    "tags": ["Door"],
+    "description": "This metal framed door consists of large glass panels that make it possible to see though to the other side. While not too delicate, it’s still made of glass and could smash if struck hard. There is a chance (30%) this door is locked with a [Simple] mechanical lock."
+  },
+  {
+    "title": "Grand Furnishings",
+    "tags": ["Dungeon Boon"],
+    "description": "This encounter zone is resplendent with heavy, carved, richly upholstered and well polished furniture. The furniture could fetch a good price but would be awkward to transport."
+  },
+  {
+    "title": "Grave",
+    "tags": ["Intrigue"],
+    "description": "A hastily dug shallow, open and unoccupied grave lies on the floor here."
+  },
+  {
+    "title": "Gravity Shift",
+    "tags": ["Environmental"],
+    "description": "This encounter area has a patch of reversed gravity, where the ceiling becomes the floor and the floor the ceiling."
+  },
+  {
+    "title": "Grim Throne",
+    "tags": ["Intrigue"],
+    "description": ""
+  },
+  {
+    "title": "This throne appears to have been constructed from the bones of giants.Grim WarningGrim Warning",
+    "tags": ["Door"],
+    "description": "This spiked heavy wooden door has the corpse of a recently killed victim pinned to the front as a warning to others."
+  },
+  {
+    "title": "Grisly Trophy",
+    "tags": ["Intrigue"],
+    "description": "A pile of skulls is capped by an unholy symbol."
+  },
+  {
+    "title": "Guard Beast",
+    "tags": ["Enemy"],
+    "description": "This [Lone] [Elite] beast has been placed on guard here. There is a chance (30%) it’s chained or limited to the encounter zone in some way."
+  },
+  {
+    "title": "Guard Door",
+    "tags": ["Door"],
+    "description": "A heavy barred door with a shuttered window hatch, a [Standard] denizen is stationed the other side and controls access via the locking bar. The guard is likely to have a decent ranged weapon to hand that can fire through the hatch."
+  },
+  {
+    "title": "Guarded Treasure",
+    "tags": ["Dungeon Boon"],
+    "description": "This chest containing a reasonable amount of valu - able trinkets and coins is guarded by a [Small] group of [Standard] denizens. These denizens are well trained and alert, keeping an efficient active watch around this entire encounter zone."
+  },
+  {
+    "title": "Guardian",
+    "tags": ["Interaction"],
+    "description": "This veteran holy fighter [Elite Warrior NPC] is honour bound to guard a holy spring that flows in to a fountain in this dungeon area. The guardian will be peaceful but insist nobody may touch the fountain and will attack if anyone tries to drink the water. 291"
+  },
+  {
+    "title": "Guards",
+    "tags": ["Enemy"],
+    "description": "This [Small] group of [Standard] denizens are stand - ing guard in this encounter zone. They will be vigilant and [Difficult] to sneak up upon."
+  },
+  {
+    "title": "Half-Denizen",
+    "tags": ["Interaction"],
+    "description": "This adventurous individual [Standard Rogue NPC] is half-denizen and has entered the dungeon to seek answers to their heritage."
+  },
+  {
+    "title": "Handy Key",
+    "tags": ["Dungeon Boon"],
+    "description": "This large and ornate silver plated key looks import - ant. This key will work on an important door somewhere within the Dungeon. This key also grants 1 Clue."
+  },
+  {
+    "title": "Healing Wind",
+    "tags": ["Environmental"],
+    "description": "A gust of fresh and revitalising air breezes through this dungeon area restoring [Light] damage and gen - erally leaving Characters feeling refreshed."
+  },
+  {
+    "title": "Heavy Door",
+    "tags": ["Door"],
+    "description": "A heavy wooden door with metal bands and a sturdy handle operated latch. This type of door could take [Major] damage before being broken. There is a 10% chance that the door is locked with a"
+  },
+  {
+    "title": "[Routine] mechanical lock.Heir ApparentHeir Apparent",
+    "tags": ["Interaction"],
+    "description": "This young noble [Standard Warrior NPC] is seeking to gather fame and glory for their family name. They are high-born and their family would pay well to make sure they stay safe, if aware of the risks they were taking. However, it’s worth noting that they are very entitled and [Difficult] for any non-noble Characters to con - verse with. They are equipped with the very best weapons and armour that money in these parts can buy. While they are not without skill, they are not an expert fighter or hunter yet."
+  },
+  {
+    "title": "Heirloom",
+    "tags": ["Dungeon Boon"],
+    "description": "This small gilt vase has a family crest upon it and is surprisingly clean and dust free. The vase has some value, it also has the ashes of a long dead aristocrat within. A mechanism within the crest is [Difficult] to activate but would reveal an expensive looking signet ring in a secret compartment. This magnificent ring is important somehow and is worth 1 Clue."
+  },
+  {
+    "title": "Herbalist",
+    "tags": ["Interaction"],
+    "description": "A hermit [Standard Priest NPC] with expert knowledge of herbalism is foraging for local specific herbs found only in these parts. The hermit has had dealings with the denizens here, and has safe passage. They could be persuaded to offer some information (1 Clue) but it would be [Diffi - cult]"
+  },
+  {
+    "title": "Hidden Coin Pouch",
+    "tags": ["Dungeon Boon"],
+    "description": "This well worn leather pouch is [Routine] to spot and contains a few dozen coins. 292"
+  },
+  {
+    "title": "Hive",
+    "tags": ["Environmental"],
+    "description": "This dungeon area is riddled with small tunnels that form a hive for a local type of beast. Excess noise could awaken the hive, if so replace an Encounter in this dungeon area with a [Beyond Count] group of [Easy] beasts. These beasts will not give chase beyond the hive area, so will not pursue beyond this dungeon area."
+  },
+  {
+    "title": "Holy Ground",
+    "tags": ["Environmental"],
+    "description": "This encounter zone has a powerful holy aura and will deter evil beings from setting foot within, actually causing [Minor] damage if they do."
+  },
+  {
+    "title": "Horde of Beasts",
+    "tags": ["Enemy"],
+    "description": "A [Horde] of [Easy] beasts fills this dungeon area."
+  },
+  {
+    "title": "Horde of Denizens",
+    "tags": ["Enemy"],
+    "description": "This dungeon area has [Easy] denizens all around the place, in total there is a [Horde] sized group of them."
+  },
+  {
+    "title": "Hot House",
+    "tags": ["Environmental"],
+    "description": "This dungeon area has an unnatural heat emanating throughout. The Characters will be prone to sweating and over - heating. Anyone not equipped for the heat will risk taking [Minor] damage due to overheating, dehydration and"
+  },
+  {
+    "title": "exhaustion.Hunting PacksHunting Packs",
+    "tags": ["Enemy"],
+    "description": "Several predators are hunting the Characters; this will consist of two [Equal] sized groups of [Standard] beasts each led by a stronger [Elite] pack leader. The two packs will try to surround the Characters from a distance and will gang up and attack any lone Character. If the pack leader is killed or disabled, then the mem - bers of that pack may flee or try to join the other pack."
+  },
+  {
+    "title": "Ice Door",
+    "tags": ["Door"],
+    "description": "This entrance way is blocked by a slab of ice around five feet thick that extends all around the door frame and nearby wall sections. There is an unnatural chill near the door."
+  },
+  {
+    "title": "Ice Floor",
+    "tags": ["Environmental"],
+    "description": "The floor is slick with hazardous almost invisible clear sheets of ice. It is [Very Difficult] to maneuver in this dungeon area unless a Character has spiked boots or similar."
+  },
+  {
+    "title": "Idol",
+    "tags": ["Intrigue"],
+    "description": "This five foot high statue is made of twisted shapes carved in to the stone as a tribute to some long forgot - ten dark gods. Studying the statue in detail will cause [Light] psychic damage and grant 1 Clue."
+  },
+  {
+    "title": "Illusionary Door",
+    "tags": ["Door"],
+    "description": "The impressive door of intricately carved panels in this doorway isn’t actually there. Anyone trying to touch it will unexpectedly put their hand straight though. The illusion blocks line of sight but not movement and is [Difficult] to dispel. 293"
+  },
+  {
+    "title": "Increased Gravity",
+    "tags": ["Environmental"],
+    "description": "There is an aura of increased gravity in effect in this dungeon area. This would slow movement, reduce the range of pro - jectile attacks and more quickly tire out anyone exert - ing themselves."
+  },
+  {
+    "title": "Industrial Zone",
+    "tags": ["Environmental"],
+    "description": "This dungeon area is home to old but still functional machinery. This means there are moving parts, swinging chains, furnaces, electric surges, mechanical saws and all manner of other hazardous machinery to be found. Add a Trap effect to each encounter zone in this dun - geon area, this effect is triggered at regular intervals and represents the machinery at work."
+  },
+  {
+    "title": "Information Scrolls",
+    "tags": ["Dungeon Boon"],
+    "description": "These scrolls appear to be notes on the dungeon, either from denizens or previous adventurers. These can be read to gather 1 Clue."
+  },
+  {
+    "title": "Ingots",
+    "tags": ["Dungeon Boon"],
+    "description": "Valuable but very heavy ingots of a desirable but not precious metal are stacked here."
+  },
+  {
+    "title": "Injured Beast",
+    "tags": ["Enemy"],
+    "description": "This [Lone][Standard] Beast is injured and trying to hide in this encounter zone to recover."
+  },
+  {
+    "title": "Iris Door",
+    "tags": ["Door"],
+    "description": "The heavyweight slicing iris aperture mechanism that seals this portal is operated by a pair of levers, with one each side of the door. Anything caught in the closing door is liable to take"
+  },
+  {
+    "title": "[Major] damage.It’s in My MindIt’s in My Mind",
+    "tags": ["Intrigue"],
+    "description": "Every wall in this encounter zone has the same mes - sage scratched over and over again in to its surface. All it says is ‘It’s in my Mind’"
+  },
+  {
+    "title": "Jewelery",
+    "tags": ["Dungeon Boon"],
+    "description": "There are half a dozen items of valuable jewelery scattered around this encounter zone. Much of it is broken and could fetch a better price if repaired."
+  },
+  {
+    "title": "Jewelled Mask",
+    "tags": ["Dungeon Boon"],
+    "description": "This silver plated face mask resembles a classical devil and has fifteen small rubies mixed amongst it’s decorative flourishes. If worn the mask feels unnaturally cool but doesn’t immediately appear to have any other effects."
+  },
+  {
+    "title": "Kind Old Man",
+    "tags": ["Interaction"],
+    "description": "A kind and harmless old timer [Easy Commoner NPC] with memory problems is lost here and has no idea how they got here."
+  },
+  {
+    "title": "King’s Threshold",
+    "tags": ["Door"],
+    "description": "Covered in heraldry and crests of a royal house, this heavyweight door is magically locked and will only open for someone wearing a crown. In theory it should be the crown of this particular royal line but the magic is old and any suitable head gear may work. It’s possible to gain this knowledge by spending 1 Clue."
+  },
+  {
+    "title": "Kitchens",
+    "tags": ["Intrigue"],
+    "description": "This encounter area is used as a working kitchen. There are ample supplies of food and drink to be found here of types suitable for the denizens. 294"
+  },
+  {
+    "title": "Large Beast Group",
+    "tags": ["Enemy"],
+    "description": "A [Large] group of [Standard] beasts roam this dun - geon area."
+  },
+  {
+    "title": "Large Denizen Group",
+    "tags": ["Enemy"],
+    "description": "A [Large] group of [Standard] denizens call this dun - geon area home."
+  },
+  {
+    "title": "Large Loot Sack",
+    "tags": ["Dungeon Boon"],
+    "description": "A large sack containing a good amount of coin and valuable trinkets."
+  },
+  {
+    "title": "Large Treasure Chest",
+    "tags": ["Dungeon Boon"],
+    "description": "A large solid looking chest that contains plenty of coins, gems and valuable trinkets."
+  },
+  {
+    "title": "There is a chance (50%) that the chest is locked.Large War-BandLarge War-Band",
+    "tags": ["Enemy"],
+    "description": "This [Large] group of [Standard] denizens form a war- band patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band as well as con - sumables like potions."
+  },
+  {
+    "title": "Lava Crevasse",
+    "tags": ["Environmental Details"],
+    "description": "This encounter zone has a long tear in the floor of the dungeon with deep sides and lava at the bottom. Any Character falling down would risk [Lethal] dam - age.The blistering heat rising would also affect Characters crossing the crevasse. 294 295"
+  },
+  {
+    "title": "Leech Vines",
+    "tags": ["Environmental"],
+    "description": "Long black plant tendrils hang down from the ceiling in this encounter zone. These vines will attach themselves to the uncovered flesh of any Character that doesn’t make a [Routine] test to avoid them. Anyone with vines attached will take [Minor] damage until they are removed. Cutting through the vines will release any blood they have leeched so far, splattering anyone cutting their way through and making the ground underfoot slick with blood."
+  },
+  {
+    "title": "Lever",
+    "tags": ["Intrigue"],
+    "description": "It’s not obvious what this lever does, but it’s here. Maybe (40%) it’ll open a nearby door, or (20%) set of an alarm, or (20%) activate a trap or even (20%) have no effect."
+  },
+  {
+    "title": "Lightweight Door",
+    "tags": ["Door"],
+    "description": "A very light internal door with thin sheets of wood or cured hide sat in a wooden frame with a simple lever operated latch. This type of door could only take [Minor] damage before being broken."
+  },
+  {
+    "title": "Living Door",
+    "tags": ["Door"],
+    "description": "It’s best not to ask why this was placed here, but merged in to the stone is what can only be described as a mass of fleshy matter. The most obvious feature is an unappealing ‘valve’ style section where a door might otherwise be. If a [Lethal] amount of damage is caused to the mass it will sag and open, as well as flood the entire dungeon area in a tsunami of fragments of bone, flesh, blood and gore. It’s possible, but unpleasant to squeeze through this"
+  },
+  {
+    "title": "puckered sphincter without having to cause damage.Lone BeastLone Beast",
+    "tags": ["Enemy"],
+    "description": "This encounter zone is home to this [Lone] [Elite] beast."
+  },
+  {
+    "title": "Lone Denizen",
+    "tags": ["Enemy"],
+    "description": "Spending time on their own, this [Lone] [Standard] denizen is not expecting company."
+  },
+  {
+    "title": "Lone Guard",
+    "tags": ["Enemy"],
+    "description": "A [Lone] [Elite] denizen has been placed on guard here. They are vigilant and [Difficult] to sneak up upon."
+  },
+  {
+    "title": "Lone Monster",
+    "tags": ["Enemy"],
+    "description": "This [Lone] [Elite] monster has chosen this encounter zone to call home."
+  },
+  {
+    "title": "Lore Master",
+    "tags": ["Interaction"],
+    "description": "This wise old lore master [Elite Commoner NPC] had been invited in to the dungeon to adjudicate a dispute between denizens. With their work complete they are now heading home. They will retain a neutral position and while they have some insight in to the denizens it will be [Difficult] to get them to divulge, but worth 1 Clue."
+  },
+  {
+    "title": "Lost Apprentice",
+    "tags": ["Interaction"],
+    "description": "A young assistant [Easy Wizard NPC] to a local wiz - ard or magic college is sneaking around this dungeon area. They had been searching for reagents and managed to sneak in to the dungeon, but now find themselves lost and hiding to stay alive. They may be reluctant to accept help for fear of losing face, or they may be intelligent enough to grasp the seriousness of their predicament. 296"
+  },
+  {
+    "title": "Lost Child Monster",
+    "tags": ["Interaction"],
+    "description": "A young [Standard] monster that is lost or trapped in this encounter zone. Replace another encounter in this dungeon area with a [Small] group of [Standard] monsters of the same type, which are the family. If the party safely return the child monster to its family then they may act as short term allies or simply let them pass peacefully. If the party harms the child then the family will attack with ferocity."
+  },
+  {
+    "title": "Low Ceilings",
+    "tags": ["Environmental Details"],
+    "description": "This dungeon area has clearly been created by a shorter race as the ceilings are just four foot high."
+  },
+  {
+    "title": "Low Oxygen",
+    "tags": ["Environmental"],
+    "description": "The air in this dungeon area is thin and stale. The stuffy air makes the spaces seem smaller than they are. This makes it [Difficult] for the Characters to exert themselves and may lead to [Minor] damage if they do."
+  },
+  {
+    "title": "Magic Mirror",
+    "tags": ["Intrigue"],
+    "description": "This spotless mirror stands six foot high in an ornate metal frame radiating a distinct aura of magic. The mirror has divination abilities and will show possi - ble futures based on carefully worded questions.There is a chance (30%) the mirror will try to deceive the questioner in to destroying the mirror. The mirror can be used to gain 1 Clue."
+  },
+  {
+    "title": "Magic Portal",
+    "tags": ["Intrigue"],
+    "description": "A magic portal flickers in a free standing door frame. The portal works just like an exit door for this dungeon"
+  },
+  {
+    "title": "area.Magic ScrollMagic Scroll",
+    "tags": ["Dungeon Boon"],
+    "description": "Inside a sealed case is a scroll containing the details for a magic spell."
+  },
+  {
+    "title": "Map Table",
+    "tags": ["Intrigue"],
+    "description": "This large table has an overland map detailing the lands all around the dungeon. The map shows plans to assault targets outside the dungeon."
+  },
+  {
+    "title": "Marked Loot",
+    "tags": ["Dungeon Boon"],
+    "description": "There is good size stash of coins and small portable valuables in boxes here. All of the boxes bear a set of markings clearly stating that this is the property of an organisation of importance and influence that is capable of reprisals. Maybe this is a thieves guild stash, a military payroll cache or it could belong to an inquisitorial branch of a church. Why this loot is in the dungeon could be insightful and grants 1 Clue."
+  },
+  {
+    "title": "Market Opportunities",
+    "tags": ["Interaction"],
+    "description": "This [Pair] of merchants [Standard Commoner NPC] have a cunning plan for making money from the dun - geon, and they’d love to tell the Characters all about it."
+  },
+  {
+    "title": "Mechanical Oddity",
+    "tags": ["Dungeon Boon"],
+    "description": "This device is the size of a backpack and made of brass, polished wood and a lot of clockwork. There are multiple keys, dials and other controls placed around the device. It’s not clear what this is for, maybe it interacts with some other mechanism found in the dungeon? If the [Very Difficult] task of figuring the devices’ pur- pose out is complete, it’d grant 2 Clues. 297"
+  },
+  {
+    "title": "Menagerie",
+    "tags": ["Environmental"],
+    "description": "Every unoccupied room in this dungeon area is a holding cell for a [Standard] beast or [Easy] monster with a solid steel cage door keeping them inside. In addition add an effect that opens all of these cage doors to any trap in this dungeon area."
+  },
+  {
+    "title": "Messenger",
+    "tags": ["Interaction"],
+    "description": "An official message carrier [Standard Ranger NPC] for a local power has been captured by the denizens of the dungeon. They are weak and restrained in chains and don’t know when their captors will return. They do have an important message that must be delivered though and will ask the Characters for help."
+  },
+  {
+    "title": "Messenger Bag",
+    "tags": ["Intrigue"],
+    "description": "This well made leather satchel bears the badge of a civilised political force. It contains a set of sealed scrolls with messages for the denizens of the dungeon to discuss trade and alliance details, and is worth 1 Clue."
+  },
+  {
+    "title": "Mighty Iron Door",
+    "tags": ["Door"],
+    "description": "A solid iron door operated from the other side. A bell pull can be found in the frame next to the door and can be used to get the attention of the [Pair] of [Elite] denizens that operate this door. It’s possible though [Very Difficult] to slip the bolt se-"
+  },
+  {
+    "title": "curing the door from the outside.Mighty WindsMighty Winds",
+    "tags": ["Environmental"],
+    "description": "Either via natural vent openings somewhere in the dungeon or magical means there is a regular breeze in this dungeon area that can build up to extreme forces. Ranged weapons may suffer, communication can be difficult and occasionally the wind is strong enough to knock people down."
+  },
+  {
+    "title": "Minor Enchanted Item",
+    "tags": ["Dungeon Boon"],
+    "description": "There is a magically enhanced item to be found here, with slight magical effects. This could be a weapon, armour piece, ammunition, tools etc. There is a high (70%) chance that this item is being carried and used by a denizen in this dungeon area."
+  },
+  {
+    "title": "Mirror Door",
+    "tags": ["Door"],
+    "description": "A highly polished circular glass mirrored window domi - nates this door. The mirror is two way and allows the occupants of the room to see who approaches their door. The door itself is standard construction and is locked with a [Difficult] mechanical lock."
+  },
+  {
+    "title": "Mist Veil",
+    "tags": ["Door"],
+    "description": "The twenty foot diameter billowing gas cloud centered on this door is full of thick opaque vapours. The mists dance with colours and patterns, and have hallucinogenic properties. Anyone breathing in the gas will have a [Difficult] time discerning reality around them correctly. They may (60%) see things that aren’t real or mis-identify the things that are. The patterns in the mist are beautiful and ever evolv - ing. They may (20%) also distract Characters. 298"
+  },
+  {
+    "title": "Monster Whisperer",
+    "tags": ["Interaction"],
+    "description": "This wild loner [Elite Ranger NPC] has befriended a [Standard] monster and treats it as their loyal com - panion. Whilst not immediately hostile, they don’t much like strangers and will protect their companion at all costs."
+  },
+  {
+    "title": "Monstrous Ambush",
+    "tags": ["Enemy"],
+    "description": "A [Small] group of [Standard] monsters have an am - bush prepared in this dungeon area. They will be attempting to hide in advantageous posi - tions to perform a surprise attack."
+  },
+  {
+    "title": "Monstrous Scholar",
+    "tags": ["Interaction"],
+    "description": "This [Standard] monster is of a different mindset to the rest of its kin, with the gathering of knowledge its primary pursuit. This monster is more interested in gaining knowledge from the Characters than attacking them, and would give out 1 Clue if engaged in scholarly talk."
+  },
+  {
+    "title": "Mother and Young",
+    "tags": ["Enemy"],
+    "description": "This [Lone] [Elite] beast is the mother to the [Large] group of [Easy] beasts also found in this encounter zone. The mother will be very protective of the young."
+  },
+  {
+    "title": "Murder Scene",
+    "tags": ["Environmental"],
+    "description": "This encounter zone has a murder scene, with the body of an important personage from outside the dun - geon lying dead here. They would be out of place, and it’s likely they were lured here and killed by someone from outside the dungeon. There is 1 Clue to be gained from investigating the scene. In addition a good reward might be available"
+  },
+  {
+    "title": "for solving this by spending 2 Clues.MusicMusic",
+    "tags": ["Intrigue"],
+    "description": "Ghostly music floats in the air throughout this dun - geon area with no obvious source. Anyone able to perform the [Difficult] task of decipher - ing the lyrics would gather 1 Clue."
+  },
+  {
+    "title": "Mystery Box",
+    "tags": ["Intrigue"],
+    "description": "A crate with a large ‘?’ painted on each of the sides.What’s in the box? Well, possibly (60%) it’s a medium sized pile of coins or (40%) an exploding trap causing [Major] damage."
+  },
+  {
+    "title": "Mystical Portal",
+    "tags": ["Door"],
+    "description": "Instead of a door a glowing portal sits here. This portal teleports anyone entering in to a random part of this dungeon area."
+  },
+  {
+    "title": "Myth Box",
+    "tags": ["Dungeon Boon"],
+    "description": "This one foot square stone box has mysterious sym - bols carved all around that have a tribal style. Any magical item placed in the box is completely un - detectable as magical while it’s inside, and for a short period of time after it is removed."
+  },
+  {
+    "title": "Necromancer",
+    "tags": ["Interaction"],
+    "description": "An enterprising necromancer [Elite Wizard NPC] has so far collected a [Large] group of Zombies [Easy Monster] from the dungeon and is currently heading out with their ‘supplies’. They would prefer to avoid any conflict if possible, but have a lot of zombies and their own magic if they need to force any issues. They may also be interested in any additional “spare parts” the Characters may have on them. No questions asked of course. 299"
+  },
+  {
+    "title": "Negotiator",
+    "tags": ["Interaction"],
+    "description": "A brave negotiator [Standard Performer NPC] from a local power has entered the dungeon under a banner of peace to seek an audience with a denizen repre - sentative. They bring word of terms the outside world would like to discuss. The negotiator may be having difficulty reaching the representative they need to confer with."
+  },
+  {
+    "title": "Neutral Ground",
+    "tags": ["Intrigue"],
+    "description": "Whether by simple pact or more mystical reasons this area has been declared a neutral area. Denizens will not start violent action here.Note that this is either by choice or out of respect and doesn’t affect their ability to fight if attacked or pro - voked in some other way."
+  },
+  {
+    "title": "No Door",
+    "tags": ["Door"],
+    "description": "This opening is unbarred and there is no door or ob - struction here. If line of sight should be blocked then a simple curtain of leather or cloth hangs in place."
+  },
+  {
+    "title": "Noble Clothes",
+    "tags": ["Dungeon Boon"],
+    "description": "A few complete sets of high quality and high fashion clothes, shoes and hats. These outfits are pressed, folded and well looked after."
+  },
+  {
+    "title": "Note of Caution",
+    "tags": ["Door"],
+    "description": "This normal unlocked door has a note nailed to the front, this is a warning from previous dungeon delver. The note will give information the author discovered in"
+  },
+  {
+    "title": "the dungeon, worth 1 Clue.Null Magic ZoneNull Magic Zone",
+    "tags": ["Environmental"],
+    "description": "Whether by ritual or freak natural phenomenon this encounter zone has an effect that nullifies magic with - in its area. It is [Near Impossible] to get spells or magic items to work here."
+  },
+  {
+    "title": "Official and Escort",
+    "tags": ["Enemy"],
+    "description": "This [Lone] [Elite Priest] denizen is an important official amongst the denizens, and carries an item of cultural importance as a badge of office. A [Pair] of [Elite] denizens accompany the official as an escort."
+  },
+  {
+    "title": "Oil Barrels",
+    "tags": ["Dungeon Boon"],
+    "description": "Half a dozen large barrels that have been painted red are stacked here. These barrels contain highly flammable oil, are heavy and at least one barrel is prone to break if it’s moved."
+  },
+  {
+    "title": "Oil Slick",
+    "tags": ["Environmental"],
+    "description": "Something has leaked a large amount of oil here where it has formed a thin layer across the floor of the encounter zone. Moving through this area has an increased chance of slipping and falling, also any fire touching the oil will set off an immediate blast, capable of causing [Ma - jor] damage and setting fire to flammables or anyone within the oil slick. 300"
+  },
+  {
+    "title": "On Display",
+    "tags": ["Dungeon Boon"],
+    "description": "A well polished glass display case cabinet that ap - pears to be full of curious items, like dried ears, finger bones, arrow heads, scraps of cloth showing heraldry etc. These could well be trophies taken from those who tried to take on the dungeon before, and there could be clues to help the Characters. The curios are [Routine] to examine for 1 Clue."
+  },
+  {
+    "title": "One Way Portal",
+    "tags": ["Door"],
+    "description": "A shimmering magical portal blocks this doorway, any- one touching the portal will pass through it. However the portal does not allow travel back the oth - er way and will feel like a solid wall for any who try.The portal is [Difficult] to dismiss as a spell.If this door leaves all Characters trapped in a dead end, add a secret door or similar if required."
+  },
+  {
+    "title": "Orrery",
+    "tags": ["Intrigue"],
+    "description": "An ornate clockwork orrery depicting planets, planes and celestial bodies slowly rotates here. The orrery is 5 foot across and built in to a large mar - ble slab.It’s also powered by arcane electricity and will shock anyone touching it for [Light] damage."
+  },
+  {
+    "title": "Out of Body Experiences",
+    "tags": ["Environmental"],
+    "description": "A strange phenomenon in this dungeon area makes it feel like your body is not your own. Ask your players to swap Characters for a period of time to represent this."
+  },
+  {
+    "title": "Pair of Beasts",
+    "tags": ["Enemy"],
+    "description": "A [Pair] of [Standard] beasts can be found in this en -"
+  },
+  {
+    "title": "counter zone.Pair of Boosted BeastsPair of Boosted Beasts",
+    "tags": ["Enemy"],
+    "description": "This [Pair] of [Elite] beasts have been magically or alchemically enhanced and have more health, cause more damage and are quicker than before."
+  },
+  {
+    "title": "Pair of Denizens",
+    "tags": ["Enemy"],
+    "description": "A [Pair] of [Standard] denizens are spending time in this encounter zone."
+  },
+  {
+    "title": "Pair of Monsters",
+    "tags": ["Enemy"],
+    "description": "A [Pair] of [Standard] monsters can be found in this encounter zone."
+  },
+  {
+    "title": "Party Time",
+    "tags": ["Interaction"],
+    "description": "A [Large] group of [Standard] denizens are celebrat - ing some event or occasion with a [Small] group of outsiders [Standard * NPC]. They will all initially assume the Characters are more party guests. If 1 Clue is spent the Characters could even appear as genuine guests."
+  },
+  {
+    "title": "Petrified Monster",
+    "tags": ["Intrigue"],
+    "description": "An [Elite] monster is frozen in place, turned to stone in an attacking pose."
+  },
+  {
+    "title": "Pheromone Sack",
+    "tags": ["Environmental"],
+    "description": "This large sack has been sealed in tar and wax. If opened it sprays out a payload of pheromone laden liquid over anyone within five foot. The smell of this liquid drives beasts in to a frenzy and they will target anyone covered in the smell as a priority. It has a very pungent smell and any Character unfor - tunate enough to be scent marked will be unable to remove the scent for at least a day. 301"
+  },
+  {
+    "title": "Pit",
+    "tags": ["Environmental"],
+    "description": "A hole in the ground, possibly with some more surpris - es; use the Trap effect for Pit to determine what this pit is like."
+  },
+  {
+    "title": "Plane Shift",
+    "tags": ["Environmental"],
+    "description": "This dungeon area is in close proximity to another plane of existence, be that Elemental, Celestial, Dia - bolical, Fey, Death or some other reality. The effect would be mostly superficial with a differ - ence to temperature, light, odour, odd flora growth etc. In addition any monster enemies generated for this dungeon area should be adjusted as if they have come from the other plane."
+  },
+  {
+    "title": "Play Rehearsal",
+    "tags": ["Environmental"],
+    "description": "A [Small] group of [Standard Performer NPC] actors dressed as denizens are rehearsing a play here. They are [Routine] to notice as actors not denizens.Watching their play all the way through grants 1 Clue"
+  },
+  {
+    "title": "as the story is about the dungeon.Player of GamesPlayer of Games",
+    "tags": ["Interaction"],
+    "description": "This flamboyantly dressed individual [Overwhelming Wizard NPC] is the avatar for a neutral deity that rep - resents chance. They will offer games and challenges to the Charac - ters with the possible reward of a blessing from the god(ess) of chance."
+  },
+  {
+    "title": "Poison Garden",
+    "tags": ["Dungeon Boon"],
+    "description": "A collection of plant pots in this encounter zone are home to a well cultivated collection of rare plants. The one thing the plants have in common is that they are all used in the production of poisons."
+  },
+  {
+    "title": "Poison Gas Cloud",
+    "tags": ["Environmental"],
+    "description": "This encounter zone has a patch of [Very Difficult] to see, almost invisible poisonous gas that will cause [Major] damage to any Character breathing it in. The gas cloud has a distinct smell making it [Routine] to notice if using smell. 302"
+  },
+  {
+    "title": "Poisoned Door",
+    "tags": ["Door"],
+    "description": "The handle of this normal door is designed to depress when touched exposing the opener to a poison coated needle which causes [Major] damage. This is a [Difficult] trap to spot although armoured gloves may save a Character from harm."
+  },
+  {
+    "title": "Portcullis",
+    "tags": ["Door"],
+    "description": "Heavy metal gate that descends from above, causing [Major] damage to anything beneath it. The gate is operated by a lever on the other side.There is a chance (30%) of a [Standard] denizen present and manning the lever."
+  },
+  {
+    "title": "Potion Rack",
+    "tags": ["Dungeon Boon"],
+    "description": "A sturdy shelf unit that safely houses three glass decanters. Three potions could be extracted from this unit."
+  },
+  {
+    "title": "Power at a Price",
+    "tags": ["Dungeon Boon"],
+    "description": "This enchanted weapon has a basic sentience grant - ed by either the magic required to craft it or via a trapped entity bound to the weapon. The weapon will have it’s own ideas on what it wants to be used for and will try to influence a Character wielding it."
+  },
+  {
+    "title": "Prisoner Escort",
+    "tags": ["Enemy"],
+    "description": "This [Equal] sized group of [Standard] denizens are escorting captives, roll an Interaction encounter to determine the nature of the captives. The captives may outnumber their captors, they are kept in order by linked locked chains with the key being held by the leading denizen."
+  },
+  {
+    "title": "That key has immense value to the prisoners.Puppet MonsterPuppet Monster",
+    "tags": ["Interaction"],
+    "description": "A [Easy] monster that tries to avoid combat is actually under the control of a powerful wizard. The wizard has sent the creature in to dungeon to scout it out. Maybe this wizard is looking for a dungeon to take over for themselves?"
+  },
+  {
+    "title": "Putrid Stench",
+    "tags": ["Environmental"],
+    "description": "An absolutely foul stench fills the air of this encounter zone. It would be [Difficult] to resist the urge to vomit if a Character can’t find a way to keep the fetid vapours away."
+  },
+  {
+    "title": "Questing Knight",
+    "tags": ["Interaction"],
+    "description": "To prove themselves worthy of their beloved’s hand, this knight [Standard Warrior NPC] has decided to slay the greatest foe the dungeon has to offer in sin - gle combat. They would allow the Character to join them on the condition that the foe is theirs to slay alone."
+  },
+  {
+    "title": "Quicksand",
+    "tags": ["Environmental"],
+    "description": "Patches of the floor of this dungeon area appear to be covered in sand, however it’s quicksand. The quicksand would be [Difficult] to escape from if a Character gets stuck in it, with this difficulty increasing for bulky items like heavy plate armour."
+  },
+  {
+    "title": "Rainbow Portal",
+    "tags": ["Door"],
+    "description": "What appears to be a normal door will explode in colour sprays when opened. These will either (40%) be a magical fireworks spray of blinding colours or (60%) a pressure fed spray of coloured dyes that stain everyone within ten foot with patches of random colour. 303"
+  },
+  {
+    "title": "Raining Blood",
+    "tags": ["Environmental"],
+    "description": "Blood is dripping like rain from the ceiling in this en - counter zone. Whilst there is no immediate hazard from this freak occurrence, it’s obviously supernatural and unpleas - ant."
+  },
+  {
+    "title": "Rangers Cache",
+    "tags": ["Dungeon Boon"],
+    "description": "Some rangers have passed this way before you and have hidden a [Difficult] to spot cache of ammunition, food and other survival gear. Those able to read the rangers symbols left here could gain 1 Clue too."
+  },
+  {
+    "title": "Rare Fungi",
+    "tags": ["Intrigue"],
+    "description": "The dozen large mushrooms growing in this dungeon area are a rare and potent type. However they can be unpredictable; when eaten they may (60%) induce a berserk state or (35%) heal [Ma - jor] damage. The worst side effect (5%) is they act as a [Lethal] dose of poison."
+  },
+  {
+    "title": "Repair Scaffold",
+    "tags": ["Environmental"],
+    "description": "There are support struts placed all around this dun - geon area keeping the ceiling in place If any struts are tampered with apply the Collapsing Ceiling Environmental effect to a ten foot square area around each affected strut."
+  },
+  {
+    "title": "Repair Team",
+    "tags": ["Enemy"],
+    "description": "This [Large] group of [Standard] denizens are equipped with maintenance gear and tools, and are just repairing a broken section of dungeon. Treat this dungeon area as having the Collapsing"
+  },
+  {
+    "title": "Ceiling Environment effect if the repair crew are stopped from fixing it.Resting MonsterResting Monster",
+    "tags": ["Enemy"],
+    "description": "This [Elite] monster is at rest after a previous battle, the remains of which are plain to see with bodies and weapons scattered around this encounter zone. The monster will not initiate any combat unless pro - voked or Characters start searching the remains.Searching the remains would reveal 1 Clue."
+  },
+  {
+    "title": "Restricted Knowledge",
+    "tags": ["Dungeon Boon"],
+    "description": "A heavy tome that has been encased in lock and chains. Someone does not want the contents of this book to be read. Amongst any other effects it’s possible to get 2 Clues from reading the book."
+  },
+  {
+    "title": "Revenge",
+    "tags": ["Interaction"],
+    "description": "This [Small] group of adventurers [Standard * NPC] have lost a number of companions already to this dungeon and its denizens on a previous expedition. They’ve returned and are out for revenge, whatever the cost. While they could assist the Characters, their drive for revenge will make them reckless and [Difficult] to work with. There is even a chance for conflict if they believe the Characters are stopping them from their revenge."
+  },
+  {
+    "title": "Revolving Door",
+    "tags": ["Door"],
+    "description": "Made of a metal frame and heavy wooden panels, this revolving door system limits access to one person at a time. It’s also a [Simple] task to wedge the door and stop it from revolving, however it cannot be passed while jammed. The door only revolves in one direction, and it is not possible to see through to other side before revolving the door. 304"
+  },
+  {
+    "title": "Riddle Door",
+    "tags": ["Door"],
+    "description": "An enchanted face will loudly address anyone coming near this solid metal door and challenge them to a riddle contest. The prize is entry to what lays beyond, if the face wins then it settles into a smug grin and doesn’t animate again for an hour. It’s possible to know the answer of the riddle for 1 Clue."
+  },
+  {
+    "title": "Rising Water",
+    "tags": ["Environmental"],
+    "description": "A steady flow of water is entering this dungeon area from multiple locations. After a short period of time apply the Flooded Sec - tions Environment effect.This would be getting deeper and deeper, until after a long period of time the dungeon area will be underwa - ter."
+  },
+  {
+    "title": "Ritual of Peace",
+    "tags": ["Environmental"],
+    "description": "A powerful ritual affects this encounter zone rendering it [Near Impossible] to cause harm to another if both within the ritual area. This could by either mental calming or via magical barriers that flash in to existence to stop damaging acts."
+  },
+  {
+    "title": "Ritual Setup",
+    "tags": ["Intrigue"],
+    "description": "This encounter zone has been prepared for a ritual, magic circles drawn, candles placed, braziers lit etc."
+  },
+  {
+    "title": "Rival Adventuring party",
+    "tags": ["Interaction"],
+    "description": "This [Equal] size group consists of a mix of arche - types [Standard * NPC] and is a rival adventuring party. While not openly hostile, they will insist that they were here first and ask the Characters to leave and find"
+  },
+  {
+    "title": "somewhere else to adventure.Rotten DoorRotten Door",
+    "tags": ["Door"],
+    "description": "Every section of this door is made from moldy, stink-ing and possibly plague ridden organic components. Caution is advised if handling these rotted remains."
+  },
+  {
+    "title": "Round Door",
+    "tags": ["Door"],
+    "description": "Just like a normal door except perfectly round and set a foot above ground level. There is a 40% chance this door is locked via a [Rou - tine] mechanical lock."
+  },
+  {
+    "title": "Royal Banner",
+    "tags": ["Dungeon Boon"],
+    "description": "Lost during a pivotal battle, this is an item of historical importance. This war-torn banner would belong to a local nation that would be most interested in its return."
+  },
+  {
+    "title": "Rubbish Dump",
+    "tags": ["Intrigue"],
+    "description": "Some useful items or information (1 Clue) may be mixed in with the trash and refuge found here. Al-though the smell is hideous, and the chance of getting crushed by falling junk will make this a [Difficult] task."
+  },
+  {
+    "title": "Rubble Piles",
+    "tags": ["Environmental"],
+    "description": "Scattered piles of solid stone rubble covered in etched carvings provide plenty of cover throughout this dun - geon area, although the accompanying loose stones could be a trip hazard. If the [Near Impossible] task of re-assembling the carved tablets that got turned into this rubble is achieved, it’s worth 2 Clues."
+  },
+  {
+    "title": "Runic Stone",
+    "tags": ["Intrigue"],
+    "description": "A runic stone set in to the floor of this encounter zone hums faintly with arcane power. This arcane ley line focusing stone will help magic users recharge some magical power. 305"
+  },
+  {
+    "title": "Rust Piles",
+    "tags": ["Intrigue"],
+    "description": "This dungeon area has numerous piles of rust on the ground in the shape of weapons and armour. They are so fragile they will collapse if touched and in some places seem to have left a rusty colour on the stone floor."
+  },
+  {
+    "title": "Sand Door",
+    "tags": ["Door"],
+    "description": "This door is actually a Sand Elemental [Standard Monster] that has been trapped and forced in to servi - tude. Its locked door form just appears as a solid wall of sandstone, which melts away across the walls when ‘opened’ by a denizen approaching it. The elemental will go in to a frenzy against any deni - zens if freed from its imprisonment somehow."
+  },
+  {
+    "title": "Screen Door",
+    "tags": ["Door"],
+    "description": "An exceptionally lightweight paper and wood con - struction sliding door."
+  },
+  {
+    "title": "Sealed Hatch",
+    "tags": ["Intrigue"],
+    "description": "A heavy wooden trapdoor with a [Difficult] lock could lead to a new area. Treat as an exit door from this dungeon area."
+  },
+  {
+    "title": "Secret Door",
+    "tags": ["Intrigue"],
+    "description": "It’s going to be [Difficult] to spot, but there is a section of wall here that hinges open like a door."
+  },
+  {
+    "title": "Secure Room",
+    "tags": ["Dungeon Boon"],
+    "description": "There is a clean, warm and safe room here with a good solid door that can be locked from the inside."
+  },
+  {
+    "title": "This could be a good place to rest.Serpent DoorSerpent Door",
+    "tags": ["Door"],
+    "description": "This heavy door has a [Very Difficult] lock and an ornate snake shaped handle. The snake handle is an animated metal creature and will bite anyone trying to grasp it for [Lethal] damage. While inanimate, the handle is highly resistant to damage, when animated it’s equivalent to an [Easy] Monster."
+  },
+  {
+    "title": "Shadow Egress",
+    "tags": ["Door"],
+    "description": "Evil looking symbols surround this portal of inky dark - ness. Anyone with good tendencies will feel fear creeping in to their mind while near to the portal and will actual take [Light] damage if they touch it. The portal will allow anyone to pass through but will cause those with good tendencies [Major] damage in the process. Anyone with evil tendencies is unaffected by the por - tal."
+  },
+  {
+    "title": "Shoe Pile",
+    "tags": ["Intrigue"],
+    "description": "A pile of three dozen or more unpaired shoes are placed in this encounter zone. These are an offering to some Fey creatures that have power here. Any Character not leaving a shoe offering will find themselves very unlucky until they can leave this dun - geon area, or deal with the [Near impossible] task of trying to catch the Fey causing them problems. The fey prefer left shoes."
+  },
+  {
+    "title": "Silence",
+    "tags": ["Environmental"],
+    "description": "This encounter zone has a field of supernatural si - lence, with no noise possible in this zone.It is so quiet is almost makes your ears pop! 306"
+  },
+  {
+    "title": "Siren Door",
+    "tags": ["Door"],
+    "description": "A normal door that emits an ear splitting scream when touched. The scream causes [Light] sonic damage to all within twenty feet. The scream will continue as long as the door is being touched. This comes from a spirit bound to the door that is"
+  },
+  {
+    "title": "[Difficult] to banish.Slam DoorSlam Door",
+    "tags": ["Door"],
+    "description": "This door has a powerful coiled spring opening mech - anism. The first Character to stand on the concealed pressure plate before the door will have to be quick to avoid being slammed in the face by the rapid opening of the door. The pressure plate is [Difficult] to spot and the door is [Very Difficult] to avoid if standing on the pressure plate when it activates. The impact of the door causes [Light] damage and a Character would have a [Difficult] time to avoid being knocked over. The door takes around 5 seconds to return to closed after the pressure plate is no longer depressed. 306 307"
+  },
+  {
+    "title": "Slaughter House",
+    "tags": ["Environmental"],
+    "description": "This dungeon area looks to be used by denizens to slaughter and store meats. There are multiple hazards here, dangling meat hooks, hanging carcasses and a floor littered in chunks of viscera."
+  },
+  {
+    "title": "Sleeping Area",
+    "tags": ["Intrigue"],
+    "description": "Whether it’s beds, sleeping mats or just piles of straw, this encounter zone is used as a sleeping area by denizens. There is a slim (10%) chance that a [Small] group of [Standard] denizens are at rest here."
+  },
+  {
+    "title": "Sleeping Beasts",
+    "tags": ["Enemy"],
+    "description": "A [Pair] of [Elite] beasts are resting here surrounded by the debris from a previous battle. The encounter zone floor is covered in bones and bro - ken armour and [Difficult] to traverse without making a loud beast waking noise."
+  },
+  {
+    "title": "Sleeping Quarters",
+    "tags": ["Enemy"],
+    "description": "A [Very Large] group of denizens are currently at rest in this dungeon area."
+  },
+  {
+    "title": "Sliding Door",
+    "tags": ["Door"],
+    "description": "Just like normal door except this one slides smoothly into a gap in the wall."
+  },
+  {
+    "title": "Small Beast Group",
+    "tags": ["Enemy"],
+    "description": "A [Small] size group of [Standard] beasts."
+  },
+  {
+    "title": "Small Denizen Group",
+    "tags": ["Enemy"],
+    "description": "A [Small] group of [Standard] denizens can be found"
+  },
+  {
+    "title": "in this encounter zone.Small Loot sackSmall Loot sack",
+    "tags": ["Dungeon Boon"],
+    "description": "Small grubby sack with a handful of coins and pol - ished rocks. The sack itself is in poor repair and is unsuitable for carrying anything due to large holes and frays."
+  },
+  {
+    "title": "Small Monster Group",
+    "tags": ["Enemy"],
+    "description": "A [Small] group of [Easy] monsters are waiting in this encounter zone."
+  },
+  {
+    "title": "Small Treasure Chest",
+    "tags": ["Dungeon Boon"],
+    "description": "Small and portable, this sturdy little chest has a mod - erate amount of coin and valuable trinkets held within."
+  },
+  {
+    "title": "Small War-Band",
+    "tags": ["Enemy"],
+    "description": "This [Small] group of [Standard] denizens form a war-band patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band as well as consumables like potions."
+  },
+  {
+    "title": "Smithy",
+    "tags": ["Intrigue"],
+    "description": "This encounter zone is home to a fully equipped forge, with all the tools necessary to repair or create weapons and armour. There are also some items of armour and weapons to be taken too. The smith is an [Elite Warrior] denizen who has a (30%) chance of being present."
+  },
+  {
+    "title": "Smoke",
+    "tags": ["Environmental"],
+    "description": "Dense smoke fills this dungeon area making sight and breathing [Difficult] for everyone. 308"
+  },
+  {
+    "title": "Snipers",
+    "tags": ["Enemy"],
+    "description": "This [Pair] of [Elite Ranger] denizens both have ranged attack capabilities, and have placed them - selves well to take long range shots at the Characters."
+  },
+  {
+    "title": "Song of Ages",
+    "tags": ["Interaction"],
+    "description": "A famous bard [Elite Performer NPC] has ventured in to the dungeon to be inspired as part of the song writing process. They are composing an epic, maybe the Characters will be included? The bard has brought a large and rather impractical instrument with them. They may reward the Charac - ters with more than song if they prevent any harm coming to the bard and his instrument."
+  },
+  {
+    "title": "Spear Bars",
+    "tags": ["Door"],
+    "description": "A dozen retractable metal spears shoot out from the walls to seal this door way, causing [Major] damage to anyone caught in their path. Use the Trap Triggers table to determine the method by which this door is activated to open/close. This door has a (70%) chance of starting in an open state, ready to close when triggered."
+  },
+  {
+    "title": "Specimen Jars",
+    "tags": ["Intrigue"],
+    "description": "This encounter zone has glass jars scattered about, these are of varying sizes, from small jars up to one big enough for a human body to fit inside. Most jars contain some creature submerged in murky liquid. These unfortunate animals are for the most part dis - sected with organs carefully removed and labeled in smaller jars, however some of the larger jars contain intact specimens. A [Difficult] examination may show some are even still"
+  },
+  {
+    "title": "alive. Spell DoorSpell Door",
+    "tags": ["Door"],
+    "description": "This arcane symbol adorned metal door requires a spell of opening to activate and open. Designed to stop non-magical sorts from accessing beyond, it may even require a combination of spells to open. The exact details could be discerned by spending 1 Clue."
+  },
+  {
+    "title": "Spider Webs",
+    "tags": ["Environmental"],
+    "description": "This dungeon area is covered in a thick mass of giant spider webs. The webs are [Difficult] to move around and have a chance (20%) of immobilising anyone trying to move through them as they become tangled in the sticky stands. Webs this large must also have been created by very large spiders... There may be a large number of spider eggs present."
+  },
+  {
+    "title": "Spiked Door",
+    "tags": ["Door"],
+    "description": "Heavy, reinforced and covered in spikes, some with dried blood crusted on them. There is a 50% chance that this door is locked by a [Difficult] mechanical lock."
+  },
+  {
+    "title": "Spiral Staircase",
+    "tags": ["Intrigue"],
+    "description": "A spiral staircase offers access to another dungeon area or two. Treat as an exit door for this dungeon area that could lead to one or two other dungeon areas."
+  },
+  {
+    "title": "Staircase",
+    "tags": ["Intrigue"],
+    "description": "A staircase that leads to another dungeon area. Treat as an exit door for this dungeon area. 309"
+  },
+  {
+    "title": "Starved Beasts",
+    "tags": ["Enemy"],
+    "description": "This [Small] group of [Elite] beasts have been pur - posefully starved. They are enraged and will be desperate to feed."
+  },
+  {
+    "title": "Statue",
+    "tags": ["Intrigue"],
+    "description": "It’s hard to tell what this statue once depicted as it’s been heavily vandalised and defaced."
+  },
+  {
+    "title": "Stone Slab",
+    "tags": ["Door"],
+    "description": "Ingenious counterweights and expert stone craft allow this solid wall of stone to glide smoothly in to place as a door."
+  },
+  {
+    "title": "Store Room",
+    "tags": ["Dungeon Boon"],
+    "description": "This encounter zone is used as a store room and has all manner of sundry items such as food, water and tools. There will be a lot of crates and barrels stacked around the place to hold the stores."
+  },
+  {
+    "title": "Strobing Light",
+    "tags": ["Environmental Details"],
+    "description": "This dungeon area is lit with magical light orbs, how - ever they are currently strobing making for [Difficult] sight based checks."
+  },
+  {
+    "title": "Stuck Door",
+    "tags": ["Door"],
+    "description": "This Heavy Door has been jammed shut on purpose and is [Difficult] to force open. This door is often found in flooded or damp dungeon areas where the wood of the frame may have expand - ed. Equally if the surrounding masonry is unstable a stuck door may indicate a structural issue and precede a"
+  },
+  {
+    "title": "ceiling collapse.Summoned MonstrositySummoned Monstrosity",
+    "tags": ["Enemy"],
+    "description": "This [Lone] [Elite] monster appears in a flash of light and sudden smell of ozone. Someone or something has summoned this mon - strosity to do their bidding, starting with a close range surprise attack on the Characters."
+  },
+  {
+    "title": "Sunspike Beam",
+    "tags": ["Environmental"],
+    "description": "Entering via a portal in this encounter zone is a solid laser like beam of pure light. This beam will travel in a straight line from its entry point until it hits another wall. Anyone coming in to contact with the light will take [Major] damage. It’s possible to redirect the beam using mirrors or similar."
+  },
+  {
+    "title": "Suspect Statue",
+    "tags": ["Intrigue"],
+    "description": "This statue of a mighty looking denizen appears to be new, highly polished and well maintained."
+  },
+  {
+    "title": "Suspiciously Quiet",
+    "tags": ["Environmental"],
+    "description": "There seems to be little activity in this dungeon area, or is something just biding it’s time? Allow some exploration before making the encounters in the dungeon area active."
+  },
+  {
+    "title": "Swarm - Insects",
+    "tags": ["Enemy"],
+    "description": "A swarm of insects that is [Beyond Count] passes through this dungeon area. The insects will fill the air as they travel past, treat any section of the swarm as [Easy] beasts. The swarm will finish moving through after a short amount of time. The swarm will be easy to track and [Simple] to spot coming due to the deafening buzzing. 310"
+  },
+  {
+    "title": "Swarm - Vermin",
+    "tags": ["Enemy"],
+    "description": "A swarm of vermin that is [Beyond Count] passes through this dungeon area. The vermin will carpet the ground as they travel past, treat any section of the swarm as [Easy] beasts. The swarm will finish moving through after a short amount of time."
+  },
+  {
+    "title": "Tapestry",
+    "tags": ["Intrigue"],
+    "description": "Many of the walls of this dungeon area are covered in sweeping tapestries showing stories of legend. These floor to ceiling coverings could make for great hiding places for enemies or NPC encounters in this dungeon area. They could also be deciphered, which is [Difficult] for 1 Clue."
+  },
+  {
+    "title": "Tarnished Crown",
+    "tags": ["Dungeon Boon"],
+    "description": "This well worn crown looks like it was once a thing of beauty and importance. All of the mountings that may once have held gems are empty but the crown is still made from precious metals."
+  },
+  {
+    "title": "Tattered Map",
+    "tags": ["Dungeon Boon"],
+    "description": "This tattered map could well be a treasure map or a map of secret passages within the dungeon. The map grants 1 Clue."
+  },
+  {
+    "title": "Teleport Runes",
+    "tags": ["Intrigue"],
+    "description": "Two glowing runes on the floor in this area form a short range teleport relay, any creature stepping on one will reappear at the other. This could be a bad news if the destination rune is already occupied, in which case both creatures take [Major] damage and may be knocked down. Randomly determine both runes location in this dun -"
+  },
+  {
+    "title": "geon area.TempleTemple",
+    "tags": ["Intrigue"],
+    "description": "This encounter zone is setup to whatever god(s) the denizens may worship. Add an [Elite Priest] denizen to any denizens encoun - tered in this dungeon area."
+  },
+  {
+    "title": "The Artist",
+    "tags": ["Interaction"],
+    "description": "This extravagant artist [Standard Performer NPC] be - lieves that true inspiration must come from experience and they must experience all the dungeon has to offer in order to create a masterpiece. If the Characters could keep them safe through the dungeon they would happily share the profit from their masterpiece once complete and sold."
+  },
+  {
+    "title": "The Cursed Priest",
+    "tags": ["Interaction"],
+    "description": "A priest/priestess [Standard Priest NPC] that has been the victim of a cruel curse, their appearance has become bestial and any attempts to talk come out as evil growls. They are likely to be roaming this dungeon to escape persecution or could be looking for a way to lift the curse."
+  },
+  {
+    "title": "The Enemy of my Enemy",
+    "tags": ["Interaction"],
+    "description": "This [Equal] group of [Standard] denizens are not from this dungeon, there are in fact rivals from anoth - er place. They could be convinced to help the Characters if it meant hurting this dungeon’s denizens. They are very imaginative about the damage they would like to inflict on their rivals."
+  },
+  {
+    "title": "The Fear",
+    "tags": ["Environmental"],
+    "description": "A creeping feeling of dread is [Routine] to ignore but is a constant companion in this dungeon area. 311"
+  },
+  {
+    "title": "The Questioner",
+    "tags": ["Interaction"],
+    "description": "This sinister looking individual [Elite Wizard NPC] is actually a renowned torturer for hire. Their current employment has them working with the denizens of the dungeon. They will try to flee at the first sign of trouble and will reappear later to assist denizens in capturing the Characters."
+  },
+  {
+    "title": "The Shiny Thing",
+    "tags": ["Dungeon Boon"],
+    "description": "An exquisite gold, gem encrusted scepter that looks to"
+  },
+  {
+    "title": "be worth plenty, the only problem is the [Elite] monster that’s taken a liking to it and is currently holding it.The Sight LockThe Sight Lock",
+    "tags": ["Intrigue"],
+    "description": "A locked safe built into the wall with ancient text that translates to ‘Unseen Opening’ is near impossible to open. Unless the eyes of various wall carvings around the room are prevented from having line of sight on the safe. Covering the eyes, filling the area with smoke or darkness will all work. Spending 1 Clue will reveal this information. The safe will contain an amulet with minor enchant - ment and a good amount of coins. 311 312"
+  },
+  {
+    "title": "The Sun Door",
+    "tags": ["Door"],
+    "description": "Bright yellow paintings of sun rays adorn this magical - ly sealed metal door. The door has a darkness activated magical seal that will unlock when bright enough light is shone on the door. As soon as it returns to a darker state the door will reseal itself. Spending 1 Clue will reveal how the mechanism here works. There are several mirrors in the dungeon area which can be used to magnify the local non-magical light sources."
+  },
+  {
+    "title": "The Wrong Group",
+    "tags": ["Interaction"],
+    "description": "A [Large] group of enforcers [Standard Warrior NPC] working for a local power have tracked the Characters down and want them to return to civilisation with them and answer for their crimes. Only thing is, they have the wrong group and have mistaken the Characters for some other group. They will be [Difficult] to convince otherwise.They are amply equipped for a manhunt and subse - quent prisoner transfer, but they are not familiar with this dungeon area."
+  },
+  {
+    "title": "Throes of Madness",
+    "tags": ["Interaction"],
+    "description": "This [Elite Wizard] denizen was once a leader amongst it’s own kind, but has suffered from some terrible prolonged madness and been cast out merci - lessly. They see things that aren’t there and talk of mad things from worlds beyond. They wouldn’t see the Characters as their enemies unless attacked. It’d be [Very Difficult] to get coherent information out of them, but they once knew the inner workings of the"
+  },
+  {
+    "title": "denizens here and could grant 1 Clue.Toll DoorToll Door",
+    "tags": ["Door"],
+    "description": "This iron revolving door is of exceptionally strong con - struction and has a coin operated locking mechanism built in to the wall beside the door. Each section of the revolving door is sized for one person and a coin is required each time the door makes a turn. Tricking the mechanism is [Difficult] and breaking in to the coin store is [Very Difficult]."
+  },
+  {
+    "title": "Tomb",
+    "tags": ["Environmental"],
+    "description": "This dungeon area is dedicated to the dead with graves and sarcophagi placed throughout. These may be well ordered with tombs of importance raised up, or a mismatched and poorly maintained collection of graves barely scraped into the hard floor."
+  },
+  {
+    "title": "Tools",
+    "tags": ["Dungeon Boon"],
+    "description": "A set of practical artisan tools have been carefully treated, wrapped up and then left here."
+  },
+  {
+    "title": "Torture Chamber",
+    "tags": ["Intrigue"],
+    "description": "This encounter zone has all of the trappings of a fully functional torture chamber with grisly machines and well worn tools to hand. There is a chance (30%) that the Torturer, an [Elite Rogue] denizen, will be busy at work here."
+  },
+  {
+    "title": "Totem",
+    "tags": ["Intrigue"],
+    "description": "Made from a solid trunk of wood with animal heads carved all over its surface. This totem has shamanic power and will calm beasts in this encounter zone. Some of the animals on the totem may be beasts of legend. 313"
+  },
+  {
+    "title": "Tourist",
+    "tags": ["Interaction"],
+    "description": "This wealthy wanderer [Standard Scholar NPC] is from a neutral faction or race that has dealings with the denizens. They are in the dungeon to look at the sights and catch glimpses of the beasts and monsters from a safe distance. They would take an interest in the Characters as they’d not expected to glimpse a real adventuring party! Their guide, an [Elite Warrior] denizen is tasked with keeping them safe."
+  },
+  {
+    "title": "Training Group",
+    "tags": ["Enemy"],
+    "description": "A [Lone] [Elite Scholar] denizen is acting as training instructor to a [Large] group of [Easy] denizens."
+  },
+  {
+    "title": "Traitor",
+    "tags": ["Interaction"],
+    "description": "This person will claim to be adventuring here, but they [Standard Warrior NPC] have actually joined forces with the denizens. They will try to join the Characters and betray them to the first suitable group of denizens."
+  },
+  {
+    "title": "Trap Crew",
+    "tags": ["Enemy"],
+    "description": "An [Equal] size group of [Standard] denizens are busy resetting a trap in this area. Add a Trap to this encounter zone. This is not active unless the denizens have the time to complete their work."
+  },
+  {
+    "title": "Trap Notes",
+    "tags": ["Dungeon Boon"],
+    "description": "A set of papers contain notes on any traps in this dun - geon area, including triggers and effects. There is a (10%) chance these are fake and intended"
+  },
+  {
+    "title": "to lure Characters in to another, real trap.Trap KitTrap Kit",
+    "tags": ["Dungeon Boon"],
+    "description": "A disassembled and packaged up trap is stored in a crate here. There are setup and assembly notes in the crate.Roll a trap to see what type this is."
+  },
+  {
+    "title": "Trapped Chest",
+    "tags": ["Dungeon Boon"],
+    "description": "A solid iron banded chest with some valuable trea - sure, valuable enough in fact to warrant a trap.Roll a trap effect for this Interference Trigger trap."
+  },
+  {
+    "title": "Trapped Door",
+    "tags": ["Door"],
+    "description": "A locked Heavy Door which is trapped in some way.Roll a Trap Trigger and Effect and apply it to the door."
+  },
+  {
+    "title": "Trapped Monster",
+    "tags": ["Enemy"],
+    "description": "This [Lone] [Standard] monster is stuck in a large bear trap style device."
+  },
+  {
+    "title": "Trappers",
+    "tags": ["Interaction"],
+    "description": "A [Small] group of trappers [Standard Ranger NPC] that are in the dungeon after trading furs and meat to some of the denizens. As this trade is likely illegal, the trappers will lie about their reason for being here and will use force to keep their secret as a last resort."
+  },
+  {
+    "title": "Traveling Captain",
+    "tags": ["Enemy"],
+    "description": "A captain of the denizens is traveling through this dungeon area. They are considered a veteran and have excellent knowledge of the dungeon terrain and related tactics. The captain is a [Lone] [Elite Warrior] denizen who is accompanied by a [Small] group of [Elite *] denizens. 314"
+  },
+  {
+    "title": "Trickster",
+    "tags": ["Interaction"],
+    "description": "This [Elite Rogue] denizen enjoys toying with and tricking interlopers in the dungeon. They will have set up a trap and will mock, taunt and generally try to get some Characters to activate the trap. Generate a trap in this dungeon area if one isn’t al - ready present."
+  },
+  {
+    "title": "Trophy Gate",
+    "tags": ["Door"],
+    "description": "This Heavy Door is covered in battle trophies, flags, banners, broken weapons and shrunken heads. Add an [Elite Warrior] denizen to the next enemy en - counter to represent the doors keeper."
+  },
+  {
+    "title": "Trophy Room",
+    "tags": ["Intrigue"],
+    "description": "The walls of this encounter zone are covered in tro - phies from battles.There is a story to be told here worth 1 clue as the story of the battles fought and won may have impor - tance beyond the dungeon."
+  },
+  {
+    "title": "Turncoat Denizen",
+    "tags": ["Interaction"],
+    "description": "This [Standard] denizen has been outcast and has decided to leave it’s own kind and now wants to join the Characters. It has information worth 1 Clue to use as a bargaining chip."
+  },
+  {
+    "title": "Unholy Altar",
+    "tags": ["Intrigue"],
+    "description": "A slab of almost pure black glass that seems to drain the very light from this encounter zone. This radiates evil and any Character with good ten - dencies will feel fear creeping into their mind near to"
+  },
+  {
+    "title": "the altar and will actually take [Light] damage if they touch it.UnluckyUnlucky",
+    "tags": ["Environmental"],
+    "description": "A patch of pure bad luck infects this encounter zone. This will increase the chance for fumbles or mistakes on actions performed by both the Characters and any enemies."
+  },
+  {
+    "title": "Unseen Eyes",
+    "tags": ["Interaction"],
+    "description": "A scout [Standard Rogue NPC] for a local authority is keeping a watch on this area and is keeping a stealthy eye on what the Characters are doing and compiling a report."
+  },
+  {
+    "title": "Unusual Tracks",
+    "tags": ["Intrigue"],
+    "description": "A clear set of unusual tracks that would be [Routine] to investigate and determine the monsters that occupy and move around this dungeon area."
+  },
+  {
+    "title": "Unwelcome Mat",
+    "tags": ["Door"],
+    "description": "A classic ten foot drop pit is hidden beneath this over - sized welcome mat. This cunning trap is [Simple] to spot."
+  },
+  {
+    "title": "Upper Class Halls",
+    "tags": ["Environmental"],
+    "description": "This dungeon area has Grand Furnishings and is frequented by important denizens. Add a [Lone] [Elite *] denizen to any other denizen encounters for this dungeon area. 315"
+  },
+  {
+    "title": "Vampiric Door",
+    "tags": ["Door"],
+    "description": "This ornate gothic brass and steel door has a glass vial visible in the centre of a surgical looking piece of clockwork machinery. The glass vial appears to have traces of blood within.The lock on this door only opens when the mech - anism has used its needles to pierce and extract enough blood to fill a vial, this is equivalent to [Minor] damage. Once filled the vial will rotate out of sight and the door will open. Trying to circumvent the machinery is [Very Difficult].Why this lock collects blood and what it does with it is currently a mystery. Holy items and symbols may have interesting effects on this door."
+  },
+  {
+    "title": "Vast Hoard",
+    "tags": ["Dungeon Boon"],
+    "description": "A vast pile of treasure fills this encounter area, with coins, chests, gems and fine items scatted through - out. This sort of treasure pile usually (90%) has an owner or guardian in the form of an [Overwhelming] monster. It’ll also take magic or a train of pack animals to shift it all out of the dungeon."
+  },
+  {
+    "title": "Vermin Catcher",
+    "tags": ["Interaction"],
+    "description": "This filthy and ragged hunter [Standard Rogue NPC]is skulking around trapping and killing vermin from the dungeon as there is a reward per vermin they can prove to have slain. The vermin are the [Easy] beasts found here."
+  },
+  {
+    "title": "Very Large Beast Group",
+    "tags": ["Enemy"],
+    "description": "This [Very Large] group of [Easy] beasts occupy this"
+  },
+  {
+    "title": "dungeon area.Very Large Denizen GroupVery Large Denizen Group",
+    "tags": ["Enemy"],
+    "description": "This [Very Large] group of [Easy] denizens occupy this dungeon area. This group are likely to be going about their daily ac - tivities unless warned about the Characters arrival."
+  },
+  {
+    "title": "Village Hero",
+    "tags": ["Interaction"],
+    "description": "They have their bravery and the best kit the village could muster to send the local hero [Standard Warrior NPC] into the dungeon to see if they can remove the threat to the village."
+  },
+  {
+    "title": "Wall Carvings",
+    "tags": ["Intrigue"],
+    "description": "Complex geometric patterns have been carved in to the walls all about this encounter zone. The carvings are actually carefully placed wards to amplify defensive magic cast here."
+  },
+  {
+    "title": "Warded Door",
+    "tags": ["Door"],
+    "description": "This normal door has been reinforced by magical shielding and is resistant to magical effects. When weakened the ward will blast out offensive spells to all nearby. The wards are [very Difficult] to dispel.A few amulets are known to exist which allow entry past this type of warded door, and one could be found for 1 Clue."
+  },
+  {
+    "title": "Warhorns",
+    "tags": ["Enemy"],
+    "description": "A [Horde] sized group of [Standard] denizens are heading towards this dungeon area and being very loud about it, with warhorns, drums, screaming or whatever is suitable. They are looking for intruders in their home but the Characters will have time to prepare or hide as it will take time for them to get here. 316"
+  },
+  {
+    "title": "Warning Message",
+    "tags": ["Intrigue"],
+    "description": "Scrawled into the dirt is a warning, this will describe another nearby encounter."
+  },
+  {
+    "title": "Weakened Reality",
+    "tags": ["Environmental"],
+    "description": "The barriers between the real world and another more unpleasant reality are weakened in this dungeon area. Any powerful magic use or other spike in mystical en - ergy will attract a [Pair] of horrific creatures that count as [Elite] monsters. These creatures could be tentacled horrors, devils,"
+  },
+  {
+    "title": "demons or similar beings.Weapon EmplacementWeapon Emplacement",
+    "tags": ["Dungeon Boon"],
+    "description": "A defensive emplacement with a large weapon like a ballista or cannon mounted on a frame behind gabi - ons and sand bags. If there are Denizens in this dungeon area they may already be manning this weapon (40%)."
+  },
+  {
+    "title": "Weapon Pile",
+    "tags": ["Intrigue"],
+    "description": "A large pile of discarded weapons that must contain dozens of swords, spears, axes and more. Most of these weapons would need repair to be of use."
+  },
+  {
+    "title": "Weapon Stand",
+    "tags": ["Dungeon Boon"],
+    "description": "A rack of weapons in a well used stand. There are a dozen or more weapons here with a good range of different types. 316 317"
+  },
+  {
+    "title": "Well",
+    "tags": ["Intrigue"],
+    "description": "A stone well with a rope heading down in to the dark - ness. This could be a dead end (60%) or be an exit to an - other dungeon area (40%)."
+  },
+  {
+    "title": "Witch Finder",
+    "tags": ["Interaction"],
+    "description": "A bastion of faith and hunter of witchcraft in all it’s forms, this holy warrior [Elite Priest NPC] is seeking out evils to destroy. Whilst they may ally with the Characters for a time they are puritan in nature and take a very dim view of any ungodly magic."
+  },
+  {
+    "title": "Wizard Conclave",
+    "tags": ["Interaction"],
+    "description": "This [Small] group of magic users [Standard Wizard NPC] have warded and protected this encounter zone so they can proceed with a ritual spell. Whilst not hostile they will want to work in peace and are focused on completing their ritual before leaving the dungeon."
+  },
+  {
+    "title": "Wounded Rearguard",
+    "tags": ["Interaction"],
+    "description": "The only surviving member of a military squad that ventured in to this dungeon but had to retreat, this soldier [Standard Warrior NPC] was acting as part of a rearguard action. Found amongst a few of their fallen comrades, they are slumped against a wall with incapacitating but not immediately fatal wounds."
+  },
+  {
+    "title": "Writer",
+    "tags": ["Interaction"],
+    "description": "This young enthusiastic writer [Standard Scholar NPC] has been following the Characters from a dis - tance and is keeping detailed notes on their actions. This is all for the book they are writing about adven - turing parties."
+  },
+  {
+    "title": "Writing Desk",
+    "tags": ["Intrigue"],
+    "description": "A well used and neatly organised writing desk. There are useful pieces of information (1 Clue) to be found here, although they have been written in a [Very Diffi- cult] cypher."
+  },
+  {
+    "title": "You Shall Not Pass",
+    "tags": ["Interaction"],
+    "description": "This towering fighter [Elite Warrior NPC] is well ar - moured and equipped and will refuse to let anyone pass beyond this encounter zone. They are the victim of a powerful geas and are com - pelled to guard the way. It would be [Very Difficult] to break the geas. It’s possible, 1 Clue would let the Characters know of the geas and how to break it."
+  },
+  {
+    "title": "Zealots",
+    "tags": ["Interaction"],
+    "description": "This [Equal] group of zealots [Standard Priest NPC] believe their lost temple is within the dungeon. They have gathered weapons and armoured them - selves and are here to reclaim the temple. They will take a dim view of any actions taken by the Characters that is against their beliefs or seems like it"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Bait",
+    "tags": ["Trigger"],
+    "description": "The trap is activated by tempting a Character to interact with the trigger, such as taking a statue from a plinth, pressing the big red button etc."
+  },
+  {
+    "title": "Interference",
+    "tags": ["Trigger"],
+    "description": "The trap is activated when some other element in the environment is interacted with, like trying to pick a lock."
+  },
+  {
+    "title": "Living",
+    "tags": ["Trigger"],
+    "description": "Some animal, plant or other creature in the area will trigger the trap via its natural reaction to people entering the trap area. This sort of trap may well have the trap effect come from the plant/animal itself, for example a Living Trigger Acid Spray Trap may simply be some clinging vines that spray acid if disturbed."
+  },
+  {
+    "title": "Magic",
+    "tags": ["Trigger"],
+    "description": "This trap is triggered by magical sensors that either release the trap effects as spells that are [Very Difficult] to dispel, or that trigger actual mechanical traps. The magical sensors could be looking for any number of events to cause a trigger, such as motion sensing, life detecting, heat sense or even detecting magic."
+  },
+  {
+    "title": "Manual",
+    "tags": ["Trigger"],
+    "description": "The trap is activated by a denizen of the dungeon who is monitoring via either a hidden viewing port, listening point or even via magical scrying means. This sort of trigger will wait for the perfect moment to either get the most victims or will target key figures like healers or wizards."
+  },
+  {
+    "title": "Pressure",
+    "tags": ["Trigger"],
+    "description": "This covers any form of trigger activated by placing weight in an area to mechanically active a trap, from simple pit falls to complex mechanical pressure plates."
+  },
+  {
+    "title": "Tripwire",
+    "tags": ["Trigger"],
+    "description": "Whether the classic taut wire or pieces of debris placed over a switch this type of trigger requires the victim to disturb an element of the environment whilst traversing it to activate any trap effects."
+  },
+  {
+    "title": "Alarm",
+    "tags": ["Effect"],
+    "description": "Loud bells ring out from concealed chambers sound - ing an alarm across the entire dungeon area. This will alert and attract denizens. If there are no denizens in this dungeon area, add an [Equal] group of [Standard] denizens."
+  },
+  {
+    "title": "Arrow Storm",
+    "tags": ["Effect"],
+    "description": "The trap unleashes a hail of arrows or crossbow bolts. Anyone in the area of effect would have a [Very Difficult] challenge to avoid [Major] damage from the onslaught."
+  },
+  {
+    "title": "Bear Trap",
+    "tags": ["Effect"],
+    "description": "A set of spring powered metal jaws slam shut, this is [Near Impossible] to dodge, causes [Major] damage and immobilises an affected Character until a [Very Difficult] effort is made to pry the jaws open."
+  },
+  {
+    "title": "Bomb",
+    "tags": ["Effect"],
+    "description": "The trap causes an explosion to rip through the area of effect causing [Major] damage to those caught in the blast. It’s likely that a number of fires will be left after the explosion.Bug SwarmBug Swarm The trap unleashes a swarm of vicious flesh eating bugs that are treated as a [Horde] of [Easy] beasts that are vulnerable to fire."
+  },
+  {
+    "title": "Cage",
+    "tags": ["Effect"],
+    "description": "A reinforced cage the size of the area of effect drops down trapping those inside. If the rolled area of effect is too large just size the cage so it fits the area around the trigger."
+  },
+  {
+    "title": "Chasing Trap",
+    "tags": ["Effect"],
+    "description": "A large corridor filling object or substance emerges and proceeds to move from its entry point to the end of the area it is in. This could take one of the following forms: (40%) Boulder - a corridor filling boulder hurtles along crushing everything in its way, those that can’t out run it take [Lethal] damage. (40%) Spiked Log - A log covered in spike rolls along the space, those that can’t out run or jump the log will take [Major] damage. (20%) Wave - A wave of water gushes along the corri - dor sweeping all with it, it’d be [Very Difficult] to avoid being swept along. Whilst this sort of trap suits a corridor best, feel free to use it in any other space."
+  },
+  {
+    "title": "Combustible Gas",
+    "tags": ["Effect"],
+    "description": "The trap area of effect is filled with a highly combusti - ble gas. There is no effect unless a naked flame is present, in which case it explodes causing [Major] damage to anyone in the area and sets flammable objects alight. There is a chance [40%] that the trap also includes a source of naked flame that will ignite shortly after the gas is released. The gas has a distinct smell that makes it [Routine] to identify. 324"
+  },
+  {
+    "title": "Concealed Pit",
+    "tags": ["Effect"],
+    "description": "A hole in the ground that has either been camouflaged in some way or has a hidden trap door style mecha - nism. The pit is ten foot square and is as deep as the Trap’s area of effect. Apply falling damage as per the system you are run - ning. There is a chance (30%) of spikes that add extra [Light] damage.Elemental ForcesElemental Forces The effect of this trap is provided by a bound raw ele - mental creature that counts as an [Elite] Monster. Roll even odds for each element to determine type."
+  },
+  {
+    "title": "Enchanted Treasure",
+    "tags": ["Effect"],
+    "description": "Mundane looking items in the vicinity will animate and attack, or simply be thrown at the Character(s) who triggered the trap. This could include more dangerous items like weap - ons included in a storm of animated objects that are [Difficult] to defend against and cause [Light] damage."
+  },
+  {
+    "title": "Flame Blast",
+    "tags": ["Effect"],
+    "description": "A blast of flame that is five foot wide and a long as the area of effect fires out. This causes [Major] damage to those not able to make the [Difficult] check to dodge it. Flammable items in the area will also be set alight."
+  },
+  {
+    "title": "Constricting",
+    "tags": ["Effect"],
+    "description": "The area starts to shrink, via moving walls, floor or ceiling. The walls/floor/ceiling are either mechanically or mag - ically being moved to crush those in the area of effect.It’s [Difficult] to find the mechanism to stop the crush- ing. It’ll take a few minutes to fully crush the area, causing [Lethal] damage to those stuck inside. There is a chance (20%) that there are spikes that extend prior to the crushing, these will hit before the crushing and cause [Light] damage."
+  },
+  {
+    "title": "Floodgate",
+    "tags": ["Effect"],
+    "description": "A series of gates open and water pours out. Immediately apply the Flooded Sections dungeon encounter to the area of effect. This would be getting deeper and deeper until after a medium period of time this dungeon area will be underwater."
+  },
+  {
+    "title": "Impaling Spears",
+    "tags": ["Effect"],
+    "description": "Retractable metal spears shoot out from the walls and floor of the area of effect, causing [Major] damage to anyone unable to perform the [Very Difficult] task of avoiding them. 325"
+  },
+  {
+    "title": "Lightning Field",
+    "tags": ["Effect"],
+    "description": "A storm of electrical arcs fill the entire area of effect causing [Light] damage to anyone or anything in that area. If a Character is surrounded in abundant amounts of metal, such as plate armour, then it’s increased to [Major] damage. The storm stops as quickly as it started but can be triggered multiple times."
+  },
+  {
+    "title": "Lockdown",
+    "tags": ["Effect"],
+    "description": "All nearby entrances are blocked as doors slam and lock shut, or iron grates slide from the ceiling locking the victims in to the area of effect."
+  },
+  {
+    "title": "Magical Hold",
+    "tags": ["Effect"],
+    "description": "Either via a magical spell or via enchanted restraints of some form, this trap seeks to immobilise anyone in its area of effect. It’s [Difficult] to resist the hold.Mind StormMind Storm A barrage of psionic attacks are unleashed within the area of effect that are [Difficult] to defend against. Those unable to protect their minds take [Major] dam - age."
+  },
+  {
+    "title": "Monster Surprise",
+    "tags": ["Effect"],
+    "description": "This trap deploys an [Elite] Monster that will try and surprise attack the unfortunate Character that trig - gered the trap. The monster could appear from a fake section of floor/ wall, via a trapdoor or be summoned by magic."
+  },
+  {
+    "title": "Necromancers Gift",
+    "tags": ["Effect"],
+    "description": "A necromantic raise and summon dead spell is trig - gered. Roll an enemy encounter and swap the enemies for undead versions of what it would have been. In addition any corpses within the area of effect will also animate. 326"
+  },
+  {
+    "title": "Sonic Blast",
+    "tags": ["Effect"],
+    "description": "An ear splitting blast of noise that causes [Light] damage to all in the area of effect will also alert any enemies in the same dungeon area to the presence of intruders."
+  },
+  {
+    "title": "Spinning Blades",
+    "tags": ["Effect"],
+    "description": "Long blades scythe out of the wall(s) or a central pillar each five foot long and moving with deadly speed. These blades will be [Very Difficult] to dodge and cause [Major] damage if they hit. Once activated they will continue to spin for a period of time before retracting back to whence they came.Poison DartsPoison Darts A swarm of small poison tipped darts fly out across the area of effect for the trap. These are [Difficult] to avoid but are unlikely to pierce armour. The poison could be debilitating (80%), or [Major] damage causing (20%)."
+  },
+  {
+    "title": "Poison Gas Cloud",
+    "tags": ["Effect"],
+    "description": "A cloud of deadly gas hisses out and fills the area of effect. This gas causes [Major] damage when inhaled and will irritate the eyes and noses of those caught in it. Those able to quickly cover up and get out of the cloud before breathing may avoid the effects."
+  },
+  {
+    "title": "Rigged Stone Fall",
+    "tags": ["Effect"],
+    "description": "The trap triggers a fall of large rocks from the walls and ceiling throughout the area of effect. The falling stones cause [Major] damage and are [Difficult] to avoid. The area will have a covering of rubble following the rock fall."
+  },
+  {
+    "title": "Slicing Pendulums",
+    "tags": ["Effect"],
+    "description": "Large curved blades slice out from the wall, floor and/or ceiling across the area of effect. These are [Very Difficult] to avoid when the trap is trig - gered and they continue to slice in and out for a long time after triggering. They follow a [Routine] to predict pattern that could make them [Standard] to avoid."
+  },
+  {
+    "title": "Snare",
+    "tags": ["Effect"],
+    "description": "One or more simple snares or snare nets are hidden around the area of effect, and when triggered it’s [Difficult] to avoid being hoisted up in the air to be left dangling by a limb, or trapped in a net. If this area of the dungeon is populated by monsters there may already be a rather dangerous inhabitant of the snare trap. 327 327Spring Spike GrateSpring Spike Grate This is a ten foot wide metal grate that is almost as tall as the ceiling and covered in spikes. When activated it swings open and is [Difficult] to dodge for anyone in it’s spring powered arc. Anyone hit will take [Major] damage and is likely to be knocked down. The grate takes a while to return to its ready state."
+  },
+  {
+    "title": "Stair Slide",
+    "tags": ["Effect"],
+    "description": "Once activated this changes the angle of the steps on a stair case so they form a ramp. It’s [Very Difficult] to avoid falling and sliding if a Char - acter is on a set of stairs that changes to a slide. This sort of trap is often combined with either (20%) a [Pair] of [Standard] Beasts or another trap (20%) at the bottom of the slide. Sticky LeverSticky Lever Large metal lever coated in alchemical super glue that will create an instant bond with whatever first touches it. The glue is [Very Difficult] to spot when examining the lever. The lever itself may do nothing, although there could (20%) be another trap effect activated by moving the lever. Breaking the lever will be [Very Difficult] as it’s been made to withstand a lot of damage. Either a solvent, magic or a lot of brute force will see the hand freed. Up is DownUp is Down The area of effect for this trap has a sudden, short and violent reversal of what is the floor and what is the ceiling. Anyone in the area of effect will suffer two sets of fall - ing damage and may also be struck by flying debris or furniture. This is either achieved via magically reversing gravity for a few seconds or the entire area is hinged and spun around."
+  },
+  {
+    "title": "Sticky Lever",
+    "tags": ["Effect"],
+    "description": "Large metal lever coated in alchemical super glue that will create an instant bond with whatever first touches it. The glue is [Very Difficult] to spot when examining the lever. The lever itself may do nothing, although there could (20%) be another trap effect activated by moving the lever. Breaking the lever will be [Very Difficult] as it’s been made to withstand a lot of damage. Either a solvent, magic or a lot of brute force will see the hand freed."
+  },
+  {
+    "title": "Up is Down",
+    "tags": ["Effect"],
+    "description": "The area of effect for this trap has a sudden, short and violent reversal of what is the floor and what is the ceiling. Anyone in the area of effect will suffer two sets of falling damage and may also be struck by flying debris or furniture. This is either achieved via magically reversing gravity for a few seconds or the entire area is hinged and spun around."
+  }
+]
