@@ -13,7 +13,7 @@
       }"
     >
       @if(isSidebarOpen) {
-      <span class="text-xl font-bold">My App</span>
+      <span class="text-xl font-bold">Random Encounters</span>
       }
       <button
         (click)="toggleSidebar()"
@@ -104,7 +104,7 @@
     </nav>
   </div>
   <!-- Main Content -->
-  <div class="flex-1">
+  <div class="flex-1 overflow-x-scroll">
     <ng-content />
   </div>
 </div>

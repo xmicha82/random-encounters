@@ -1,1 +1,46 @@
-<p>encounters works!</p>
+<h1 class="font-bold text-3xl m-4">Encounters</h1>
+<div class="flex">
+  <div class="m-4">
+    <button
+      class="p-2 bg-lime-500 border-1 border-lime-700 rounded-l-md hover:bg-lime-400"
+      routerLink=""
+      [queryParams]="{ environment: 'wilderness' }"
+    >
+      Wilderness
+    </button>
+    <button
+      class="p-2 bg-indigo-400 border-1 border-indigo-500 hover:bg-indigo-300"
+      routerLink=""
+      [queryParams]="{ environment: 'town' }"
+    >
+      Town
+    </button>
+    <button
+      class="p-2 bg-orange-300 border-1 border-orange-400 hover:bg-orange-200"
+      routerLink=""
+      [queryParams]="{ environment: 'dungeon' }"
+    >
+      Dungeon
+    </button>
+    <button
+      class="p-2 bg-gray-400 border-1 border-gray-500 rounded-r-md hover:bg-gray-300"
+      routerLink=""
+      [queryParams]="{ environment: 'traps' }"
+    >
+      Traps
+    </button>
+  </div>
+  <div class="items-center">
+    <ng-select class="w-10" [multiple]="true" [(ngModel)]="selectedTags">
+      @for (tag of encountersService.getAvailableTags(environment()); track tag)
+      {
+      <ng-option [value]="tag">{{ tag }}</ng-option>
+      }
+    </ng-select>
+  </div>
+</div>
+<div class="mx-4 flex flex-wrap">
+  @for (encounter of encounters(); track $index) {
+  <app-encounter-card class="mr-3 mb-3" [encounter]="encounter" />
+  }
+</div>
