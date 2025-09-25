@@ -1,0 +1,73 @@
+<div class="relative w-full">
+  <div
+    class="border border-gray-300 rounded-md py-2 bg-white cursor-pointer flex justify-between items-center"
+    [class.rounded-b-none]="isOpen()"
+    (click)="toggleDropdown()"
+  >
+    <span class="w-full flex">
+      @if(selectedOptions().length === 0) {
+      <span class="text-gray-500 mx-2 p-1">Select options...</span>
+      }@else { @for(chip of selectedOptions().slice(0, 3); track $index) {
+      <div class="ml-2 p-1 px-2 bg-blue-400 text-white rounded-sm w-30 flex">
+        <div class="w-full truncate">{{ chip }}</div>
+        <div
+          (click)="onRemoveSelected(chip); $event.stopPropagation()"
+          class="ml-1"
+        >
+          &times;
+        </div>
+      </div>
+      } }
+    </span>
+    <div class="flex">
+      @if(selectedOptions().length > 3) {
+      <div class="bg-blue-500 text-white mx-2 px-1 self-center rounded-full">
+        +{{ additionalItems() }}
+      </div>
+      }
+      <svg
+        class="w-5 h-5 mx-2 text-gray-500"
+        [ngClass]="{ 'rotate-180': isOpen() }"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M19 9l-7 7-7-7"
+        ></path>
+      </svg>
+    </div>
+  </div>
+  @if(isOpen()) {
+  <div
+    class="absolute z-10 w-full bg-white border border-gray-300 rounded-md shadow-lg max-h-60 overflow-y-auto rounded-t-none"
+    appClickOutside
+    (clickOutside)="closeDropdown()"
+  >
+    <ul class="py-1">
+      @for (opt of options(); track $index) {
+      <li
+        class="px-4 py-2 hover:bg-gray-100 cursor-pointer flex items-center"
+        [ngClass]="{
+          'hover:bg-gray-100': !isSelected(opt),
+          'hover:bg-blue-50': isSelected(opt),
+          'bg-blue-100': isSelected(opt)
+        }"
+        (click)="toggleOption(opt)"
+      >
+        <input
+          type="checkbox"
+          class="mr-2 size-4 text-blue-600 rounded border-gray-300"
+          [checked]="isSelected(opt)"
+          (click)="$event.stopPropagation()"
+        />
+        <span>{{ opt }}</span>
+      </li>
+      }
+    </ul>
+  </div>
+  }
+</div>

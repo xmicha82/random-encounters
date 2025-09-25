@@ -467,12 +467,12 @@
   {
     "title": "Echoes of the Future",
     "tags": ["Interaction"],
-    "description": "The Characters see themselves as ghostly figures enacting some pivotal future event. This would likely include something major like the death of some Characters or a betrayal. The future vi- sion could even offer some cryptic warnings or vague predictions. Whether this is just a glimpse of one possible future or a fabricated apparition it still grants 1 Clue."
+    "description": "The Characters see themselves as ghostly figures enacting some pivotal future event. This would likely include something major like the death of some Characters or a betrayal. The future vision could even offer some cryptic warnings or vague predictions. Whether this is just a glimpse of one possible future or a fabricated apparition it still grants 1 Clue."
   },
   {
     "title": "Eggs",
     "tags": ["Dungeon Boon"],
-    "description": "A dozen of either beast or monster eggs found in an unoccupied nest. These eggs could fetch a good price if they get back to civilisation in one piece. If the nest is disturbed the next beast or monster en- counter would feature enraged parents."
+    "description": "A dozen of either beast or monster eggs found in an unoccupied nest. These eggs could fetch a good price if they get back to civilisation in one piece. If the nest is disturbed the next beast or monster encounter would feature enraged parents."
   },
   {
     "title": "Elder Monster",
@@ -482,12 +482,12 @@
   {
     "title": "Electrified Door",
     "tags": ["Door"],
-    "description": "A solid metal door with a large pull bar in the centre. The door itself is electrified and will cause [Light] dam- age to anyone touching it. The air around the door crackles with static and hair will stand on end if it is approached. The pull bar is very highly charged, and will cause [Major] damage if touched. It’s possible, though [Very Difficult], to find the nearby switch to deactivate the door, although spending 1 Clue will also reveal this."
+    "description": "A solid metal door with a large pull bar in the centre. The door itself is electrified and will cause [Light] damage to anyone touching it. The air around the door crackles with static and hair will stand on end if it is approached. The pull bar is very highly charged, and will cause [Major] damage if touched. It’s possible, though [Very Difficult], to find the nearby switch to deactivate the door, although spending 1 Clue will also reveal this."
   },
   {
     "title": "Elite War-Band",
     "tags": ["Enemy"],
-    "description": "This [Small] size group of [Elite] denizens form a war- band patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band, as well as consumables like potions."
+    "description": "This [Small] size group of [Elite] denizens form a warband patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band, as well as consumables like potions."
   },
   {
     "title": "Enchanted Item",
@@ -897,7 +897,7 @@
   {
     "title": "Large War-Band",
     "tags": ["Enemy"],
-    "description": "This [Large] group of [Standard] denizens form a war- band patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band as well as consumables like potions."
+    "description": "This [Large] group of [Standard] denizens form a warband patrolling this dungeon area. The war-band of denizens are well armoured and equipped for multiple situations. They would have magical support within the war-band as well as consumables like potions."
   },
   {
     "title": "Lava Crevasse",
@@ -1002,7 +1002,7 @@
   {
     "title": "Mechanical Oddity",
     "tags": ["Dungeon Boon"],
-    "description": "This device is the size of a backpack and made of brass, polished wood and a lot of clockwork. There are multiple keys, dials and other controls placed around the device. It’s not clear what this is for, maybe it interacts with some other mechanism found in the dungeon? If the [Very Difficult] task of figuring the devices’ pur- pose out is complete, it’d grant 2 Clues."
+    "description": "This device is the size of a backpack and made of brass, polished wood and a lot of clockwork. There are multiple keys, dials and other controls placed around the device. It’s not clear what this is for, maybe it interacts with some other mechanism found in the dungeon? If the [Very Difficult] task of figuring the devices’ purpose out is complete, it’d grant 2 Clues."
   },
   {
     "title": "Menagerie",
@@ -1147,7 +1147,7 @@
   {
     "title": "One Way Portal",
     "tags": ["Door"],
-    "description": "A shimmering magical portal blocks this doorway, any- one touching the portal will pass through it. However the portal does not allow travel back the other way and will feel like a solid wall for any who try.The portal is [Difficult] to dismiss as a spell.If this door leaves all Characters trapped in a dead end, add a secret door or similar if required."
+    "description": "A shimmering magical portal blocks this doorway, anyone touching the portal will pass through it. However the portal does not allow travel back the other way and will feel like a solid wall for any who try.The portal is [Difficult] to dismiss as a spell.If this door leaves all Characters trapped in a dead end, add a secret door or similar if required."
   },
   {
     "title": "Orrery",
@@ -1907,7 +1907,7 @@
   {
     "title": "Writing Desk",
     "tags": ["Intrigue"],
-    "description": "A well used and neatly organised writing desk. There are useful pieces of information (1 Clue) to be found here, although they have been written in a [Very Diffi- cult] cypher."
+    "description": "A well used and neatly organised writing desk. There are useful pieces of information (1 Clue) to be found here, although they have been written in a [Very Difficult] cypher."
   },
   {
     "title": "You Shall Not Pass",

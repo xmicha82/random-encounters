@@ -13,7 +13,7 @@
       }"
     >
       @if(isSidebarOpen) {
-      <span class="text-xl font-bold">My App</span>
+      <span class="text-xl font-bold">Random Encounters</span>
       }
       <button
         (click)="toggleSidebar()"
@@ -81,7 +81,11 @@
           <span class="ml-4">Random Tables</span>
           }
         </li>
-        <li class="flex items-center p-4 hover:bg-gray-700 cursor-pointer">
+        <li
+          class="flex items-center p-4 hover:bg-gray-700 cursor-pointer"
+          routerLink="/testing"
+          routerLinkActive="bg-gray-700"
+        >
           <svg
             class="w-6 h-6"
             fill="none"
@@ -104,7 +108,7 @@
     </nav>
   </div>
   <!-- Main Content -->
-  <div class="flex-1">
+  <div class="flex-1 overflow-x-scroll">
     <ng-content />
   </div>
 </div>

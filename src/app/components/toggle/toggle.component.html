@@ -1,0 +1,10 @@
+<label class="relative inline-flex items-center cursor-pointer">
+  <input
+    type="checkbox"
+    class="sr-only peer"
+    (click)="onSwitchToggle(); $event.stopPropagation()"
+  />
+  <div
+    class="peer outline-none w-28 h-14 rounded-md bg-blue-400 duration-100 after:duration-100 after:content-['Any'] after:absolute after:outline-none after:h-12 after:w-12 after:bg-white after:top-1 after:left-1 after:flex after:justify-center after:items-center after:text-sky-800 after:font-bold after:rounded-md peer-checked:after:translate-x-14 peer-checked:after:content-['All']"
+  ></div>
+</label>

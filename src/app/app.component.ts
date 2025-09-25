@@ -6,8 +6,6 @@ import SideNavComponent from './components/side-nav/side-nav.component';
   selector: 'app-root',
   imports: [RouterOutlet, SideNavComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.css',
 })
-export class AppComponent {
-  title = 'random-encounters';
-}
+export class AppComponent {}

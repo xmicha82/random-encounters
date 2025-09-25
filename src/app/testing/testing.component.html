@@ -1,0 +1,18 @@
+<div class="m-4">
+  <div class="max-w-120 m-auto">
+    <div>
+      <app-multi-select [formControl]="multiselect" [options]="options" />
+
+      <div class="mt-30">
+        Selected Tags
+        <br />
+        <code>
+          {{ selectedTags() | json }}
+        </code>
+      </div>
+    </div>
+    <div>
+      <app-toggle [formControl]="toggle" />
+    </div>
+  </div>
+</div>
